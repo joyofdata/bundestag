@@ -1,3 +1,6 @@
+# the source text file has to be UTF-8 encoded. text files
+# created by xpdf are not UTF-8 endoded.
+
 from numpy import zeros
 from random import randrange
 import re
@@ -103,6 +106,8 @@ for r in range(R):
       M[r-1][th[0]] = True
 
 # apply cellular rules until stable state is reached
+# the idea is explained on my web-site:
+# http://www.joyofdata.de/blog/segmenting-text-document-using-idea-cellular-automata-text-mining/
 altered = True
 while altered:
   altered = False
