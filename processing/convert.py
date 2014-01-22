@@ -77,15 +77,22 @@ for l in range(R):
 # switching specific positions to True.
 for r in range(R):
 
-  th = re.compile('Abgeordnete\(r\) +einschließlich').search(lines[r])
+  ths = re.compile('Abgeordnete\(r\) +einschließlich').finditer(lines[r])
+  if ths:
+    for th in ths:
+      th = th.span()
+      for c in range(th[0],th[1]+1):
+        M[r][c] = True
+      if r+1 < R:
+        M[r+1][th[1]] = True
+      
+  th = re.compile('Abgegebene Stimmen: +\d').search(lines[r])
   if th:
     th = th.span()
     for c in range(th[0],th[1]+1):
-      M[r][c] = True
-    if r+1 < R:
-      M[r+1][th[1]] = True
+      M[r][c] = True  
       
-  th = re.compile('Abgegebene Stimmen: +\d').search(lines[r])
+  th = re.compile('Abgeordnete/r +ja +nein +enthalten +ungültig').search(lines[r])
   if th:
     th = th.span()
     for c in range(th[0],th[1]+1):
