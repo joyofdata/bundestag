@@ -446,14 +446,14 @@
   },
   {
     "id":63,
-    "name":["Brugger, Agnieszka"],
+    "name":["Brugger, Agnieszka","Brugger, Agnes"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brugger_agnes.html",
     "participation": [1, null]
   },
   {
     "id":64,
-    "name":["Brunner, Dr. Karl-Heinz"],
+    "name":["Brunner, Dr. Karl-Heinz", "Brunner, Dr. Karl Heinz"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brunner_karlheinz.html",
     "participation": [1, null]
@@ -1647,7 +1647,7 @@
     "name":["Jost, Reinhold"],
     "party":"SPD \n *)",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jost_reinhold.html",
-    "participation": [1, null]
+    "participation": [1, 6]
   },
   {
     "id":234,
@@ -2468,7 +2468,7 @@
   },
   {
     "id":350,
-    "name":["Marschall, Matern von"],
+    "name":["Marschall, Matern von", "Matern Marschall von Bieberstein"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/marschallvon_matern.html",
     "participation": [1, null]
@@ -2737,7 +2737,7 @@
   },
   {
     "id":388,
-    "name":["Nissen, Ulli"],
+    "name":["Nissen, Ulli", "Nissen, Ulrike"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nissen_ulli.html",
     "participation": [1, null]
@@ -2902,7 +2902,7 @@
     "name":["Petry, Christian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/petry_christian.html",
-    "participation": [1, null]
+    "participation": [7, null]
   },
   {
     "id":412,
