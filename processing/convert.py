@@ -94,7 +94,7 @@ for r in range(R):
     for c in range(d[0],d[1]+1):
       M[r][c] = True
   
-  th = re.compile('(Mündliche Frage \d)|(Anlage \d)').search(lines[r])
+  th = re.compile('(Mündliche Frage \d)|(Anlage \d)|(Tagesordnungspunkt \d)').search(lines[r])
   if th:
     th = th.span()
     for c in range(th[0],th[1]+1):
