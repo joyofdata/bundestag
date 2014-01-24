@@ -1,209 +1,209 @@
 [
   {
-    "id":0,
+    "id":"DEL-0",
     "name":["Aken, Jan van"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/aken_jan.html",
     "participation": [1, null]
   },
   {
-    "id":1,
+    "id":"DEL-1",
     "name":["Albani, Stephan"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/albani_stephan.html",
     "participation": [1, null]
   },
   {
-    "id":2,
+    "id":"DEL-2",
     "name":["Albsteiger, Katrin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/albsteiger_katrin.html",
     "participation": [1, null]
   },
   {
-    "id":3,
+    "id":"DEL-3",
     "name":["Alpers, Agnes"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/alpers_agnes.html",
     "participation": [1, null]
   },
   {
-    "id":4,
+    "id":"DEL-4",
     "name":["Altmaier, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/altmaier_peter.html",
     "participation": [1, null]
   },
   {
-    "id":5,
+    "id":"DEL-5",
     "name":["Amtsberg, Luise"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/amtsberg_luise.html",
     "participation": [1, null]
   },
   {
-    "id":6,
+    "id":"DEL-6",
     "name":["Andreae, Kerstin"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/andreae_kerstin.html",
     "participation": [1, null]
   },
   {
-    "id":7,
+    "id":"DEL-7",
     "name":["Annen, Niels"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/annen_niels.html",
     "participation": [1, null]
   },
   {
-    "id":8,
+    "id":"DEL-8",
     "name":["Arndt-Brauer, Ingrid"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/arndt_brauer_ingrid.html",
     "participation": [1, null]
   },
   {
-    "id":9,
+    "id":"DEL-9",
     "name":["Arnold, Rainer"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/arnold_rainer.html",
     "participation": [1, null]
   },
   {
-    "id":10,
+    "id":"DEL-10",
     "name":["Auernhammer, Artur"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/A/auernhammer_artur.html",
     "participation": [1, null]
   },
   {
-    "id":11,
+    "id":"DEL-11",
     "name":["Baehrens, Heike"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/baehrens_heike.html",
     "participation": [1, null]
   },
   {
-    "id":12,
+    "id":"DEL-12",
     "name":["Baerbock, Annalena"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/baerbock_annalena.html",
     "participation": [1, null]
   },
   {
-    "id":13,
+    "id":"DEL-13",
     "name":["Bahr, Ulrike"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bahr_ulrike.html",
     "participation": [1, null]
   },
   {
-    "id":14,
+    "id":"DEL-14",
     "name":["Bär, Dorothee"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/baer_dorothee.html",
     "participation": [1, null]
   },
   {
-    "id":15,
+    "id":"DEL-15",
     "name":["Barchmann, Heinz-Joachim"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/barchmann_heinz_joachim.html",
     "participation": [1, null]
   },
   {
-    "id":16,
+    "id":"DEL-16",
     "name":["Bareiß, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bareiss_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":17,
+    "id":"DEL-17",
     "name":["Barley, Katarina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/barley_katarina.html",
     "participation": [1, null]
   },
   {
-    "id":18,
+    "id":"DEL-18",
     "name":["Barnett, Doris"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/barnett_doris.html",
     "participation": [1, null]
   },
   {
-    "id":19,
+    "id":"DEL-19",
     "name":["Bartels, Hans-Peter"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bartels_hans_peter.html",
     "participation": [1, null]
   },
   {
-    "id":20,
+    "id":"DEL-20",
     "name":["Barthel, Klaus"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/barthel_klaus.html",
     "participation": [1, null]
   },
   {
-    "id":21,
+    "id":"DEL-21",
     "name":["Barthle, Norbert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/barthle_norbert.html",
     "participation": [1, null]
   },
   {
-    "id":22,
+    "id":"DEL-22",
     "name":["Bartke, Matthias"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bartke_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":23,
+    "id":"DEL-23",
     "name":["Bartol, Sören"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bartol_soeren.html",
     "participation": [1, null]
   },
   {
-    "id":24,
+    "id":"DEL-24",
     "name":["Bartsch, Dietmar"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bartsch_dietmar.html",
     "participation": [1, null]
   },
   {
-    "id":25,
+    "id":"DEL-25",
     "name":["Bartz, Julia"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bartz_julia.html",
     "participation": [1, null]
   },
   {
-    "id":26,
+    "id":"DEL-26",
     "name":["Bas, Bärbel"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bas_baerbel.html",
     "participation": [1, null]
   },
   {
-    "id":27,
+    "id":"DEL-27",
     "name":["Bätzing-Lichtenthäler, Sabine"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/baetzing-lichtenthaeler_sabine.html",
     "participation": [1, null]
   },
   {
-    "id":28,
+    "id":"DEL-28",
     "name":["Baumann, Günter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/baumann_guenter.html",
     "participation": [1, null]
   },
   {
-    "id":29,
+    "id":"DEL-29",
     "name":["Beck, Marieluise"],
     "district":"Bremen",
     "party":"Bündnis 90/Die Grünen",
@@ -211,7 +211,7 @@
     "participation": [1, null]
   },
   {
-    "id":30,
+    "id":"DEL-30",
     "name":["Beck, Volker"],
     "district":"Köln",
     "party":"Bündnis 90/Die Grünen",
@@ -219,35 +219,35 @@
     "participation": [1, null]
   },
   {
-    "id":31,
+    "id":"DEL-31",
     "name":["Becker, Dirk"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/becker_dirk.html",
     "participation": [1, null]
   },
   {
-    "id":32,
+    "id":"DEL-32",
     "name":["Beckmeyer, Uwe Karl"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/beckmeyer_uwe.html",
     "participation": [1, null]
   },
   {
-    "id":33,
+    "id":"DEL-33",
     "name":["Beermann, Maik"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/beermann_maik.html",
     "participation": [1, null]
   },
   {
-    "id":34,
+    "id":"DEL-34",
     "name":["Behrens, Herbert"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/behrens_herbert.html",
     "participation": [1, null]
   },
   {
-    "id":35,
+    "id":"DEL-35",
     "name":["Behrens, Manfred"],
     "district":"Börde",
     "party":"CDU/CSU",
@@ -255,63 +255,63 @@
     "participation": [1, null]
   },
   {
-    "id":36,
+    "id":"DEL-36",
     "name":["Bellmann, Veronika"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bellmann_veronika.html",
     "participation": [1, null]
   },
   {
-    "id":37,
+    "id":"DEL-37",
     "name":["Benning, Sybille"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/benning_sybille.html",
     "participation": [1, null]
   },
   {
-    "id":38,
+    "id":"DEL-38",
     "name":["Berghegger, André"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/berghegger_andre.html",
     "participation": [1, null]
   },
   {
-    "id":39,
+    "id":"DEL-39",
     "name":["Bergner, Christoph"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bergner_christoph.html",
     "participation": [1, null]
   },
   {
-    "id":40,
+    "id":"DEL-40",
     "name":["Bertram, Ute"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bertram_ute.html",
     "participation": [1, null]
   },
   {
-    "id":41,
+    "id":"DEL-41",
     "name":["Beyer, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/beyer_peter.html",
     "participation": [1, null]
   },
   {
-    "id":42,
+    "id":"DEL-42",
     "name":["Bilger, Steffen"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bilger_steffen.html",
     "participation": [1, null]
   },
   {
-    "id":43,
+    "id":"DEL-43",
     "name":["Binder, Karin"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/binder_karin.html",
     "participation": [1, null]
   },
   {
-    "id":44,
+    "id":"DEL-44",
     "name":["Binding, Lothar"],
     "district":"Heidelberg",
     "party":"SPD",
@@ -319,476 +319,476 @@
     "participation": [1, null]
   },
   {
-    "id":45,
+    "id":"DEL-45",
     "name":["Binninger, Clemens"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/binninger_clemens.html",
     "participation": [1, null]
   },
   {
-    "id":46,
+    "id":"DEL-46",
     "name":["Birkwald, Matthias"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/birkwald_matthias_w.html",
     "participation": [1, null]
   },
   {
-    "id":47,
+    "id":"DEL-47",
     "name":["Bleser, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bleser_peter.html",
     "participation": [1, null]
   },
   {
-    "id":48,
+    "id":"DEL-48",
     "name":["Blienert, Burkhard"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/blienert_burkhard.html",
     "participation": [1, null]
   },
   {
-    "id":49,
+    "id":"DEL-49",
     "name":["Bluhm, Heidrun"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bluhm_heidrun.html",
     "participation": [1, null]
   },
   {
-    "id":50,
+    "id":"DEL-50",
     "name":["Böhmer, Maria"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/boehmer_maria.html",
     "participation": [1, null]
   },
   {
-    "id":51,
+    "id":"DEL-51",
     "name":["Bosbach, Wolfgang"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bosbach_wolfgang.html",
     "participation": [1, null]
   },
   {
-    "id":52,
+    "id":"DEL-52",
     "name":["Brackmann, Norbert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brackmann_norbert.html",
     "participation": [1, null]
   },
   {
-    "id":53,
+    "id":"DEL-53",
     "name":["Brähmig, Klaus"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/braehmig_klaus.html",
     "participation": [1, null]
   },
   {
-    "id":54,
+    "id":"DEL-54",
     "name":["Brand, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brand_michael.html",
     "participation": [1, null]
   },
   {
-    "id":55,
+    "id":"DEL-55",
     "name":["Brandl, Reinhard"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brandl_reinhard.html",
     "participation": [1, null]
   },
   {
-    "id":56,
+    "id":"DEL-56",
     "name":["Brandt, Helmut"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brandt_helmut.html",
     "participation": [1, null]
   },
   {
-    "id":57,
+    "id":"DEL-57",
     "name":["Brantner, Franziska"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brantner_franziska.html",
     "participation": [1, null]
   },
   {
-    "id":58,
+    "id":"DEL-58",
     "name":["Brase, Willi"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brase_willi.html",
     "participation": [1, null]
   },
   {
-    "id":59,
+    "id":"DEL-59",
     "name":["Brauksiepe, Ralf"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brauksiepe_ralf.html",
     "participation": [1, null]
   },
   {
-    "id":60,
+    "id":"DEL-60",
     "name":["Braun, Helge"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/braun_helge.html",
     "participation": [1, null]
   },
   {
-    "id":61,
+    "id":"DEL-61",
     "name":["Brehmer, Heike"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brehmer_heike.html",
     "participation": [1, null]
   },
   {
-    "id":62,
+    "id":"DEL-62",
     "name":["Brinkhaus, Ralph"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brinkhaus_ralph.html",
     "participation": [1, null]
   },
   {
-    "id":63,
+    "id":"DEL-63",
     "name":["Brugger, Agnieszka","Brugger, Agnes"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brugger_agnes.html",
     "participation": [1, null]
   },
   {
-    "id":64,
+    "id":"DEL-64",
     "name":["Brunner, Karl-Heinz", "Brunner, Karl Heinz"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/brunner_karlheinz.html",
     "participation": [1, null]
   },
   {
-    "id":65,
+    "id":"DEL-65",
     "name":["Buchholz, Christine"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/buchholz_christine.html",
     "participation": [1, null]
   },
   {
-    "id":66,
+    "id":"DEL-66",
     "name":["Bulling-Schröter, Eva"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bulling_schroeter_eva.html",
     "participation": [1, null]
   },
   {
-    "id":67,
+    "id":"DEL-67",
     "name":["Bulmahn, Edelgard"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/bulmahn_edelgard.html",
     "participation": [1, null]
   },
   {
-    "id":68,
+    "id":"DEL-68",
     "name":["Bülow, Marco"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/buelow_marco.html",
     "participation": [1, null]
   },
   {
-    "id":69,
+    "id":"DEL-69",
     "name":["Burkert, Martin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/B/burkert_martin.html",
     "participation": [1, null]
   },
   {
-    "id":70,
+    "id":"DEL-70",
     "name":["Caesar, Cajus"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/C/caesar_cajus.html",
     "participation": [1, null]
   },
   {
-    "id":71,
+    "id":"DEL-71",
     "name":["Castellucci, Lars"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/C/castelluci_lars.html",
     "participation": [1, null]
   },
   {
-    "id":72,
+    "id":"DEL-72",
     "name":["Claus, Roland"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/C/claus_roland.html",
     "participation": [1, null]
   },
   {
-    "id":73,
+    "id":"DEL-73",
     "name":["Connemann, Gitta"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/C/connemann_gitta.html",
     "participation": [1, null]
   },
   {
-    "id":74,
+    "id":"DEL-74",
     "name":["Crone, Petra"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/C/crone_petra.html",
     "participation": [1, null]
   },
   {
-    "id":75,
+    "id":"DEL-75",
     "name":["Daldrup, Bernhard"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/daldrup_bernhard.html",
     "participation": [1, null]
   },
   {
-    "id":76,
-    "name":["Dağdelen, Sevim"],
+    "id":"DEL-76",
+    "name":["Dagdelen, Sevim"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/dagdelen_sevim.html",
     "participation": [1, null]
   },
   {
-    "id":77,
+    "id":"DEL-77",
     "name":["Dehm, Diether"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/dehm_diether.html",
     "participation": [1, null]
   },
   {
-    "id":78,
+    "id":"DEL-78",
     "name":["Deligöz, Ekin"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/deligoez_ekin.html",
     "participation": [1, null]
   },
   {
-    "id":79,
+    "id":"DEL-79",
     "name":["De Ridder, Daniela"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/de_ridder_daniela.html",
     "participation": [1, null]
   },
   {
-    "id":80,
+    "id":"DEL-80",
     "name":["Diaby, Karamba"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/diaby_karamba.html",
     "participation": [1, null]
   },
   {
-    "id":81,
+    "id":"DEL-81",
     "name":["Dinges-Dierig, Alexandra"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/dinges-dierig_alexandra.html",
     "participation": [1, null]
   },
   {
-    "id":82,
+    "id":"DEL-82",
     "name":["Dittmar, Sabine"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/dittmar_sabine.html",
     "participation": [1, null]
   },
   {
-    "id":83,
+    "id":"DEL-83",
     "name":["Dobrindt, Alexander"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/dobrindt_alexander.html",
     "participation": [1, null]
   },
   {
-    "id":84,
+    "id":"DEL-84",
     "name":["Donth, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/donth_michael.html",
     "participation": [1, null]
   },
   {
-    "id":85,
+    "id":"DEL-85",
     "name":["Dörflinger, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/doerflinger_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":86,
+    "id":"DEL-86",
     "name":["Dörmann, Martin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/doermann_martin.html",
     "participation": [1, null]
   },
   {
-    "id":87,
+    "id":"DEL-87",
     "name":["Dörner, Katja"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/doerner_katja.html",
     "participation": [1, null]
   },
   {
-    "id":88,
+    "id":"DEL-88",
     "name":["Dött, Marie-Luise"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/doett_marie_luise.html",
     "participation": [1, null]
   },
   {
-    "id":89,
+    "id":"DEL-89",
     "name":["Drobinski-Weiß, Elvira"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/drobinski_weiss_elvira.html",
     "participation": [1, null]
   },
   {
-    "id":90,
+    "id":"DEL-90",
     "name":["Dröge, Katharina"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/droege_katharina.html",
     "participation": [1, null]
   },
   {
-    "id":91,
+    "id":"DEL-91",
     "name":["Durz, Hansjörg"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/D/durz_hans-joerg.html",
     "participation": [1, null]
   },
   {
-    "id":92,
+    "id":"DEL-92",
     "name":["Ebner, Harald"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/ebner_harald.html",
     "participation": [1, null]
   },
   {
-    "id":93,
+    "id":"DEL-93",
     "name":["Eckenbach, Jutta"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/eckenbach_jutta.html",
     "participation": [1, null]
   },
   {
-    "id":94,
+    "id":"DEL-94",
     "name":["Edathy, Sebastian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/edathy_sebastian.html",
     "participation": [1, null]
   },
   {
-    "id":95,
+    "id":"DEL-95",
     "name":["Ehrmann, Siegmund"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/ehrmann_siegmund.html",
     "participation": [1, null]
   },
   {
-    "id":96,
+    "id":"DEL-96",
     "name":["Engelmeier-Heite, Michaela"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/engelmeier-heite_michaela.html",
     "participation": [1, null]
   },
   {
-    "id":97,
+    "id":"DEL-97",
     "name":["Erler, Gernot"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/erler_gernot.html",
     "participation": [1, null]
   },
   {
-    "id":98,
+    "id":"DEL-98",
     "name":["Ernst, Klaus"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/ernst_klaus.html",
     "participation": [1, null]
   },
   {
-    "id":99,
+    "id":"DEL-99",
     "name":["Ernstberger, Petra"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/ernstberger_petra.html",
     "participation": [1, null]
   },
   {
-    "id":100,
+    "id":"DEL-100",
     "name":["Esken, Saskia"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/esken_saskia.html",
     "participation": [1, null]
   },
   {
-    "id":101,
+    "id":"DEL-101",
     "name":["Evers-Meyer, Karin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/evers_meyer_karin.html",
     "participation": [1, null]
   },
   {
-    "id":102,
+    "id":"DEL-102",
     "name":["Fabritius, Bernd"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/fabritius_bernd.html",
     "participation": [1, null]
   },
   {
-    "id":103,
+    "id":"DEL-103",
     "name":["Färber, Hermann"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/faerber_hermann.html",
     "participation": [1, null]
   },
   {
-    "id":104,
+    "id":"DEL-104",
     "name":["Fechner, Johannes"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/fechner_johannes.html",
     "participation": [1, null]
   },
   {
-    "id":105,
+    "id":"DEL-105",
     "name":["Feiler, Uwe"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/feiler_uwe.html",
     "participation": [1, null]
   },
   {
-    "id":106,
+    "id":"DEL-106",
     "name":["Feist, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/feist_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":107,
+    "id":"DEL-107",
     "name":["Felgentreu, Fritz"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/felgentreu_fritz.html",
     "participation": [1, null]
   },
   {
-    "id":108,
+    "id":"DEL-108",
     "name":["Ferlemann, Enak"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/ferlemann_enak.html",
     "participation": [1, null]
   },
   {
-    "id":109,
+    "id":"DEL-109",
     "name":["Ferner, Elke"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/ferner_elke.html",
     "participation": [1, null]
   },
   {
-    "id":110,
+    "id":"DEL-110",
     "name":["Finckh-Krämer, Ute"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/finckh-kraemer_ute.html",
     "participation": [1, null]
   },
   {
-    "id":111,
+    "id":"DEL-111",
     "name":["Fischbach, Ingrid"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/fischbach_ingrid.html",
     "participation": [1, null]
   },
   {
-    "id":112,
+    "id":"DEL-112",
     "name":["Fischer, Axel"],
     "district":"Karlsruhe-Land",
     "party":"CDU/CSU",
@@ -796,7 +796,7 @@
     "participation": [1, null]
   },
   {
-    "id":113,
+    "id":"DEL-113",
     "name":["Fischer, Dirk"],
     "district":"Hamburg",
     "party":"CDU/CSU",
@@ -804,70 +804,70 @@
     "participation": [1, null]
   },
   {
-    "id":114,
+    "id":"DEL-114",
     "name":["Flachsbarth, Maria"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/flachsbarth_maria.html",
     "participation": [1, null]
   },
   {
-    "id":115,
+    "id":"DEL-115",
     "name":["Flisek, Christian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/flisek_christian.html",
     "participation": [1, null]
   },
   {
-    "id":116,
+    "id":"DEL-116",
     "name":["Flosbach, Klaus-Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/flosbach_klaus_peter.html",
     "participation": [1, null]
   },
   {
-    "id":117,
+    "id":"DEL-117",
     "name":["Fograscher, Gabriele"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/fograscher_gabriele.html",
     "participation": [1, null]
   },
   {
-    "id":118,
+    "id":"DEL-118",
     "name":["Franke, Edgar"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/franke_edgar.html",
     "participation": [1, null]
   },
   {
-    "id":119,
+    "id":"DEL-119",
     "name":["Freese, Ulrich"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/freese_ulrich.html",
     "participation": [1, null]
   },
   {
-    "id":120,
+    "id":"DEL-120",
     "name":["Frei, Thorsten"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/frei_thorsten.html",
     "participation": [1, null]
   },
   {
-    "id":121,
+    "id":"DEL-121",
     "name":["Freitag, Dagmar"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/freitag_dagmar.html",
     "participation": [1, null]
   },
   {
-    "id":122,
+    "id":"DEL-122",
     "name":["Freudenstein, Astrid"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/freudenstein_astrid.html",
     "participation": [1, null]
   },
   {
-    "id":123,
+    "id":"DEL-123",
     "name":["Friedrich, Hans-Peter"],
     "district":"Hof",
     "party":"CDU/CSU",
@@ -875,378 +875,378 @@
     "participation": [1, null]
   },
   {
-    "id":124,
+    "id":"DEL-124",
     "name":["Frieser, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/frieser_michael.html",
     "participation": [1, null]
   },
   {
-    "id":125,
+    "id":"DEL-125",
     "name":["Fuchs, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/fuchs_michael.html",
     "participation": [1, null]
   },
   {
-    "id":126,
+    "id":"DEL-126",
     "name":["Fuchtel, Hans-Joachim"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/fuchtel_hans_joachim.html",
     "participation": [1, null]
   },
   {
-    "id":127,
+    "id":"DEL-127",
     "name":["Funk, Alexander"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/F/funk_alexander.html",
     "participation": [1, null]
   },
   {
-    "id":128,
+    "id":"DEL-128",
     "name":["Gabriel, Sigmar"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gabriel_sigmar.html",
     "participation": [1, null]
   },
   {
-    "id":129,
+    "id":"DEL-129",
     "name":["Gädechens, Ingo"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gaedechens_ingo.html",
     "participation": [1, null]
   },
   {
-    "id":130,
+    "id":"DEL-130",
     "name":["Gambke, Thomas"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gambke_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":131,
+    "id":"DEL-131",
     "name":["Gastel, Matthias"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gastel_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":132,
+    "id":"DEL-132",
     "name":["Gauweiler, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gauweiler_peter.html",
     "participation": [1, null]
   },
   {
-    "id":133,
+    "id":"DEL-133",
     "name":["Gebhart, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gebhart_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":134,
+    "id":"DEL-134",
     "name":["Gehrcke, Wolfgang"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gehrcke_wolfgang.html",
     "participation": [1, null]
   },
   {
-    "id":135,
+    "id":"DEL-135",
     "name":["Gehring, Kai"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gehring_kai.html",
     "participation": [1, null]
   },
   {
-    "id":136,
+    "id":"DEL-136",
     "name":["Gerdes, Michael"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gerdes_michael.html",
     "participation": [1, null]
   },
   {
-    "id":137,
+    "id":"DEL-137",
     "name":["Gerig, Alois"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gerig_alois.html",
     "participation": [1, null]
   },
   {
-    "id":138,
+    "id":"DEL-138",
     "name":["Gerster, Martin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gerster_martin.html",
     "participation": [1, null]
   },
   {
-    "id":139,
+    "id":"DEL-139",
     "name":["Gienger, Eberhard"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gienger_eberhard.html",
     "participation": [1, null]
   },
   {
-    "id":140,
+    "id":"DEL-140",
     "name":["Giousouf, Cemile"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/giousouf_cemile.html",
     "participation": [1, null]
   },
   {
-    "id":141,
+    "id":"DEL-141",
     "name":["Gleicke, Iris"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gleicke_iris.html",
     "participation": [1, null]
   },
   {
-    "id":142,
+    "id":"DEL-142",
     "name":["Gohlke, Nicole"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gohlke_nicole.html",
     "participation": [1, null]
   },
   {
-    "id":143,
+    "id":"DEL-143",
     "name":["Golze, Diana"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/golze_diana.html",
     "participation": [1, null]
   },
   {
-    "id":144,
+    "id":"DEL-144",
     "name":["Göppel, Josef"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/goeppel_josef.html",
     "participation": [1, null]
   },
   {
-    "id":145,
+    "id":"DEL-145",
     "name":["Göring-Eckardt, Katrin"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/goering_eckardt_katrin.html",
     "participation": [1, null]
   },
   {
-    "id":146,
+    "id":"DEL-146",
     "name":["Gottschalck, Ulrike"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gottschalck_ulrike.html",
     "participation": [1, null]
   },
   {
-    "id":147,
+    "id":"DEL-147",
     "name":["Griese, Kerstin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/griese_kerstin.html",
     "participation": [1, null]
   },
   {
-    "id":148,
+    "id":"DEL-148",
     "name":["Grindel, Reinhard"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/grindel_reinhard.html",
     "participation": [1, null]
   },
   {
-    "id":149,
+    "id":"DEL-149",
     "name":["Groden-Kranich, Ursula"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/groden-kranich_ursula.html",
     "participation": [1, null]
   },
   {
-    "id":150,
+    "id":"DEL-150",
     "name":["Gröhe, Hermann"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/groehe_hermann.html",
     "participation": [1, null]
   },
   {
-    "id":151,
+    "id":"DEL-151",
     "name":["Gröhler, Klaus-Dieter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/groehler_klaus_dieter.html",
     "participation": [1, null]
   },
   {
-    "id":152,
+    "id":"DEL-152",
     "name":["Groß, Michael Peter"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gross_michael.html",
     "participation": [1, null]
   },
   {
-    "id":153,
+    "id":"DEL-153",
     "name":["Grosse-Brömer, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/grosse_broemer_michael.html",
     "participation": [1, null]
   },
   {
-    "id":154,
+    "id":"DEL-154",
     "name":["Grotelüschen, Astrid"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/grotelueschen_astrid.html",
     "participation": [1, null]
   },
   {
-    "id":155,
+    "id":"DEL-155",
     "name":["Groth, Annette"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/groth_annette.html",
     "participation": [1, null]
   },
   {
-    "id":156,
+    "id":"DEL-156",
     "name":["Grötsch, Uli"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/groetsch_uli.html",
     "participation": [1, null]
   },
   {
-    "id":157,
+    "id":"DEL-157",
     "name":["Grübel, Markus"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gruebel_markus.html",
     "participation": [1, null]
   },
   {
-    "id":158,
+    "id":"DEL-158",
     "name":["Grund, Manfred"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/grund_manfred.html",
     "participation": [1, null]
   },
   {
-    "id":159,
+    "id":"DEL-159",
     "name":["Grundmann, Oliver"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/grundmann_oliver.html",
     "participation": [1, null]
   },
   {
-    "id":160,
+    "id":"DEL-160",
     "name":["Grütters, Monika"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gruetters_monika.html",
     "participation": [1, null]
   },
   {
-    "id":161,
+    "id":"DEL-161",
     "name":["Gundelach, Herlind"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gundelach_herlind.html",
     "participation": [1, null]
   },
   {
-    "id":162,
+    "id":"DEL-162",
     "name":["Gunkel, Wolfgang"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gunkel_wolfgang.html",
     "participation": [1, null]
   },
   {
-    "id":163,
+    "id":"DEL-163",
     "name":["Güntzler, Fritz"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/guentzler_fritz.html",
     "participation": [1, null]
   },
   {
-    "id":164,
+    "id":"DEL-164",
     "name":["Gutting, Olav"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gutting_olav.html",
     "participation": [1, null]
   },
   {
-    "id":165,
+    "id":"DEL-165",
     "name":["Gysi, Gregor"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/gysi_gregor.html",
     "participation": [1, null]
   },
   {
-    "id":166,
+    "id":"DEL-166",
     "name":["Haase, Christian"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/haase_christian.html",
     "participation": [1, null]
   },
   {
-    "id":167,
+    "id":"DEL-167",
     "name":["Hagedorn, Bettina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hagedorn_bettina.html",
     "participation": [1, null]
   },
   {
-    "id":168,
+    "id":"DEL-168",
     "name":["Hagl-Kehl, Rita"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hagl-kehl_rita.html",
     "participation": [1, null]
   },
   {
-    "id":169,
+    "id":"DEL-169",
     "name":["Hahn, André"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hahn_andre.html",
     "participation": [1, null]
   },
   {
-    "id":170,
+    "id":"DEL-170",
     "name":["Hahn, Florian"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hahn_florian.html",
     "participation": [1, null]
   },
   {
-    "id":171,
+    "id":"DEL-171",
     "name":["Hajduk, Anja"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hajduk_anja.html",
     "participation": [1, null]
   },
   {
-    "id":172,
+    "id":"DEL-172",
     "name":["Hakverdi, Metin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hakverdi_metin.html",
     "participation": [1, null]
   },
   {
-    "id":173,
+    "id":"DEL-173",
     "name":["Hampel, Ulrich"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hampel_ulrich.html",
     "participation": [1, null]
   },
   {
-    "id":174,
+    "id":"DEL-174",
     "name":["Hänsel, Heike"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/haensel_heike.html",
     "participation": [1, null]
   },
   {
-    "id":175,
+    "id":"DEL-175",
     "name":["Harbarth, Stephan"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/harbarth_stephan.html",
     "participation": [1, null]
   },
   {
-    "id":176,
+    "id":"DEL-176",
     "name":["Hardt, Jürgen"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hardt_juergen.html",
     "participation": [1, null]
   },
   {
-    "id":177,
+    "id":"DEL-177",
     "name":["Hartmann, Michael"],
     "district":"Wackernheim",
     "party":"SPD",
@@ -1254,70 +1254,70 @@
     "participation": [1, null]
   },
   {
-    "id":178,
+    "id":"DEL-178",
     "name":["Hartmann, Sebastian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hartmann_sebastian.html",
     "participation": [1, null]
   },
   {
-    "id":179,
+    "id":"DEL-179",
     "name":["Hasselfeldt, Gerda"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hasselfeldt_gerda.html",
     "participation": [1, null]
   },
   {
-    "id":180,
+    "id":"DEL-180",
     "name":["Haßelmann, Britta"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hasselmann_britta.html",
     "participation": [1, null]
   },
   {
-    "id":181,
+    "id":"DEL-181",
     "name":["Hauer, Matthias"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hauer_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":182,
+    "id":"DEL-182",
     "name":["Hauptmann, Mark"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hauptmann_mark.html",
     "participation": [1, null]
   },
   {
-    "id":183,
+    "id":"DEL-183",
     "name":["Heck, Stefan"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heck_stefan.html",
     "participation": [1, null]
   },
   {
-    "id":184,
+    "id":"DEL-184",
     "name":["Heidenblut, Dirk"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heidenblut_dirk.html",
     "participation": [1, null]
   },
   {
-    "id":185,
+    "id":"DEL-185",
     "name":["Heider, Matthias"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heider_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":186,
+    "id":"DEL-186",
     "name":["Heiderich, Helmut"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heiderich_helmut.html",
     "participation": [1, null]
   },
   {
-    "id":187,
+    "id":"DEL-187",
     "name":["Heil, Hubertus"],
     "district":"Peine",
     "party":"SPD",
@@ -1325,21 +1325,21 @@
     "participation": [1, null]
   },
   {
-    "id":188,
+    "id":"DEL-188",
     "name":["Heil, Mechthild"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heil_mechthild.html",
     "participation": [1, null]
   },
   {
-    "id":189,
+    "id":"DEL-189",
     "name":["Hein, Rosemarie"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hein_rosemarie.html",
     "participation": [1, null]
   },
   {
-    "id":190,
+    "id":"DEL-190",
     "name":["Heinrich, Frank"],
     "district":"Chemnitz",
     "party":"CDU/CSU",
@@ -1347,105 +1347,105 @@
     "participation": [1, null]
   },
   {
-    "id":191,
+    "id":"DEL-191",
     "name":["Heinrich, Gabriela"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heinrich_gabriela.html",
     "participation": [1, null]
   },
   {
-    "id":192,
+    "id":"DEL-192",
     "name":["Held, Marcus"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/held_marcus.html",
     "participation": [1, null]
   },
   {
-    "id":193,
+    "id":"DEL-193",
     "name":["Helfrich, Mark"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/helfrich_mark.html",
     "participation": [1, null]
   },
   {
-    "id":194,
+    "id":"DEL-194",
     "name":["Heller, Uda"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heller_uda.html",
     "participation": [1, null]
   },
   {
-    "id":195,
+    "id":"DEL-195",
     "name":["Hellmich, Wolfgang"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hellmich_wolfgang.html",
     "participation": [1, null]
   },
   {
-    "id":196,
+    "id":"DEL-196",
     "name":["Hellmuth, Jörg"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hellmuth_joerg.html",
     "participation": [1, null]
   },
   {
-    "id":197,
+    "id":"DEL-197",
     "name":["Hendricks, Barbara"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hendricks_barbara.html",
     "participation": [1, null]
   },
   {
-    "id":198,
+    "id":"DEL-198",
     "name":["Henke, Rudolf"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/henke_rudolf.html",
     "participation": [1, null]
   },
   {
-    "id":199,
+    "id":"DEL-199",
     "name":["Henn, Heidtrud"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/henn_heidtrud.html",
     "participation": [1, null]
   },
   {
-    "id":200,
+    "id":"DEL-200",
     "name":["Hennrich, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hennrich_michael.html",
     "participation": [1, null]
   },
   {
-    "id":201,
+    "id":"DEL-201",
     "name":["Herzog, Gustav"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/herzog_gustav.html",
     "participation": [1, null]
   },
   {
-    "id":202,
+    "id":"DEL-202",
     "name":["Heveling, Ansgar"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/heveling_ansgar.html",
     "participation": [1, null]
   },
   {
-    "id":203,
+    "id":"DEL-203",
     "name":["Hiller-Ohm, Gabriele"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hiller_ohm_gabriele.html",
     "participation": [1, null]
   },
   {
-    "id":204,
+    "id":"DEL-204",
     "name":["Hintze, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hintze_peter.html",
     "participation": [1, null]
   },
   {
-    "id":205,
+    "id":"DEL-205",
     "name":["Hinz, Petra"],
     "district":"Essen",
     "party":"SPD",
@@ -1453,7 +1453,7 @@
     "participation": [1, null]
   },
   {
-    "id":206,
+    "id":"DEL-206",
     "name":["Hinz, Priska"],
     "district":"Herborn",
     "party":"Bündnis 90/Die Grünen",
@@ -1461,196 +1461,196 @@
     "participation": [1, 9]
   },
   {
-    "id":207,
+    "id":"DEL-207",
     "name":["Hirte, Christian"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hirte_christian.html",
     "participation": [1, null]
   },
   {
-    "id":208,
+    "id":"DEL-208",
     "name":["Hirte, Heribert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hirte_heribert.html",
     "participation": [1, null]
   },
   {
-    "id":209,
+    "id":"DEL-209",
     "name":["Hitschler, Thomas"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hitschler_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":210,
+    "id":"DEL-210",
     "name":["Hochbaum, Robert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hochbaum_robert.html",
     "participation": [1, null]
   },
   {
-    "id":211,
+    "id":"DEL-211",
     "name":["Hoffmann, Alexander"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hoffmann_alexander.html",
     "participation": [1, null]
   },
   {
-    "id":212,
+    "id":"DEL-212",
     "name":["Hofreiter, Anton"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hofreiter_anton.html",
     "participation": [1, null]
   },
   {
-    "id":213,
+    "id":"DEL-213",
     "name":["Höger, Inge"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hoeger_inge.html",
     "participation": [1, null]
   },
   {
-    "id":214,
+    "id":"DEL-214",
     "name":["Högl, Eva"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hoegl_eva.html",
     "participation": [1, null]
   },
   {
-    "id":215,
+    "id":"DEL-215",
     "name":["Höhn, Bärbel"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hoehn_baerbel.html",
     "participation": [1, null]
   },
   {
-    "id":216,
+    "id":"DEL-216",
     "name":["Holmeier, Karl"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/holmeier_karl.html",
     "participation": [1, null]
   },
   {
-    "id":217,
+    "id":"DEL-217",
     "name":["Holzenkamp, Franz-Josef"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/holzenkamp_franz_josef.html",
     "participation": [1, null]
   },
   {
-    "id":218,
+    "id":"DEL-218",
     "name":["Hoppenstedt, Hendrik"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hoppenstedt_hendrik.html",
     "participation": [1, null]
   },
   {
-    "id":219,
+    "id":"DEL-219",
     "name":["Horb, Margaret"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/horb_margaret.html",
     "participation": [1, null]
   },
   {
-    "id":220,
+    "id":"DEL-220",
     "name":["Hornhues, Bettina"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hornhues_bettina.html",
     "participation": [1, null]
   },
   {
-    "id":221,
+    "id":"DEL-221",
     "name":["Huber, Karl-Heinz"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/huber_charles.html",
     "participation": [1, null]
   },
   {
-    "id":222,
+    "id":"DEL-222",
     "name":["Hübinger, Anette"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/huebinger_anette.html",
     "participation": [1, null]
   },
   {
-    "id":223,
+    "id":"DEL-223",
     "name":["Hunko, Andrej"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hunko_andrej.html",
     "participation": [1, null]
   },
   {
-    "id":224,
+    "id":"DEL-224",
     "name":["Hupach, Sigrid"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hupach_sigrid.html",
     "participation": [1, null]
   },
   {
-    "id":225,
+    "id":"DEL-225",
     "name":["Hüppe, Hubert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/H/hueppe_hubert.html",
     "participation": [1, null]
   },
   {
-    "id":226,
+    "id":"DEL-226",
     "name":["Ilgen, Matthias"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/I/ilgen_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":227,
+    "id":"DEL-227",
     "name":["Irlstorfer, Erich"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/I/irlstorfer_erich.html",
     "participation": [1, null]
   },
   {
-    "id":228,
+    "id":"DEL-228",
     "name":["Janecek, Dieter"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/janecek_dieter.html",
     "participation": [1, null]
   },
   {
-    "id":229,
+    "id":"DEL-229",
     "name":["Jantz, Christina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jantz_christina.html",
     "participation": [1, null]
   },
   {
-    "id":230,
+    "id":"DEL-230",
     "name":["Jarzombek, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jarzombek_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":231,
+    "id":"DEL-231",
     "name":["Jelpke, Ulla"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jelpke_ulla.html",
     "participation": [1, null]
   },
   {
-    "id":232,
+    "id":"DEL-232",
     "name":["Jörrißen, Sylvia"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/joerrissen_sylvia.html",
     "participation": [1, null]
   },
   {
-    "id":233,
+    "id":"DEL-233",
     "name":["Jost, Reinhold"],
     "party":"SPD \n *)",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jost_reinhold.html",
     "participation": [1, 6]
   },
   {
-    "id":234,
+    "id":"DEL-234",
     "name":["Jung, Andreas"],
     "district":"Konstanz",
     "party":"CDU/CSU",
@@ -1658,287 +1658,287 @@
     "participation": [1, null]
   },
   {
-    "id":235,
+    "id":"DEL-235",
     "name":["Jung, Franz Josef"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jung_franz_josef.html",
     "participation": [1, null]
   },
   {
-    "id":236,
+    "id":"DEL-236",
     "name":["Jung, Xaver"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jung_xaver.html",
     "participation": [1, null]
   },
   {
-    "id":237,
+    "id":"DEL-237",
     "name":["Junge, Frank"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/junge_frank.html",
     "participation": [1, null]
   },
   {
-    "id":238,
+    "id":"DEL-238",
     "name":["Juratovic, Josip"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/juratovic_josip.html",
     "participation": [1, null]
   },
   {
-    "id":239,
+    "id":"DEL-239",
     "name":["Jurk, Thomas"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/jurk_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":240,
+    "id":"DEL-240",
     "name":["Jüttner, Egon"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/J/juettner_egon.html",
     "participation": [1, null]
   },
   {
-    "id":241,
+    "id":"DEL-241",
     "name":["Kaczmarek, Oliver"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kaczmarek_oliver.html",
     "participation": [1, null]
   },
   {
-    "id":242,
+    "id":"DEL-242",
     "name":["Kahrs, Johannes"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kahrs_johannes.html",
     "participation": [1, null]
   },
   {
-    "id":243,
+    "id":"DEL-243",
     "name":["Kalb, Bartholomäus"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kalb_bartholomaeus.html",
     "participation": [1, null]
   },
   {
-    "id":244,
+    "id":"DEL-244",
     "name":["Kammer, Hans-Werner"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kammer_hans-werner.html",
     "participation": [1, null]
   },
   {
-    "id":245,
+    "id":"DEL-245",
     "name":["Kampeter, Steffen"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kampeter_steffen.html",
     "participation": [1, null]
   },
   {
-    "id":246,
+    "id":"DEL-246",
     "name":["Kampmann, Christina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kampmann_christina.html",
     "participation": [1, null]
   },
   {
-    "id":247,
+    "id":"DEL-247",
     "name":["Kanitz, Steffen"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kanitz_steffen.html",
     "participation": [1, null]
   },
   {
-    "id":248,
+    "id":"DEL-248",
     "name":["Kapschack, Ralf"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kapschack_ralf.html",
     "participation": [1, null]
   },
   {
-    "id":249,
+    "id":"DEL-249",
     "name":["Karawanskij, Susanna"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/karawanskij_susanna.html",
     "participation": [1, null]
   },
   {
-    "id":250,
+    "id":"DEL-250",
     "name":["Karl, Alois"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/karl_alois.html",
     "participation": [1, null]
   },
   {
-    "id":251,
+    "id":"DEL-251",
     "name":["Karliczek, Anja"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/karliczek_anja.html",
     "participation": [1, null]
   },
   {
-    "id":252,
+    "id":"DEL-252",
     "name":["Kassner, Kerstin"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kassner_kerstin.html",
     "participation": [1, null]
   },
   {
-    "id":253,
+    "id":"DEL-253",
     "name":["Kaster, Bernhard"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kaster_bernhard.html",
     "participation": [1, null]
   },
   {
-    "id":254,
+    "id":"DEL-254",
     "name":["Katzmarek, Gabriele"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/katzmarek_gabriele.html",
     "participation": [1, null]
   },
   {
-    "id":255,
+    "id":"DEL-255",
     "name":["Kauder, Volker"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kauder_volker.html",
     "participation": [1, null]
   },
   {
-    "id":256,
+    "id":"DEL-256",
     "name":["Kaufmann, Stefan"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kaufmann_stefan.html",
     "participation": [1, null]
   },
   {
-    "id":257,
+    "id":"DEL-257",
     "name":["Kekeritz, Uwe"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kekeritz_uwe.html",
     "participation": [1, null]
   },
   {
-    "id":258,
+    "id":"DEL-258",
     "name":["Kelber, Ulrich"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kelber_ulrich.html",
     "participation": [1, null]
   },
   {
-    "id":259,
+    "id":"DEL-259",
     "name":["Kermer, Marina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kermer_marina.html",
     "participation": [1, null]
   },
   {
-    "id":260,
+    "id":"DEL-260",
     "name":["Keul, Katja"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/keul_katja.html",
     "participation": [1, null]
   },
   {
-    "id":261,
+    "id":"DEL-261",
     "name":["Kiesewetter, Roderich"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kiesewetter_roderich.html",
     "participation": [1, null]
   },
   {
-    "id":262,
+    "id":"DEL-262",
     "name":["Kindler, Sven-Christian"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kindler_sven_christian.html",
     "participation": [1, null]
   },
   {
-    "id":263,
+    "id":"DEL-263",
     "name":["Kippels, Georg"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kippels_georg.html",
     "participation": [1, null]
   },
   {
-    "id":264,
+    "id":"DEL-264",
     "name":["Kipping, Katja"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kipping_katja.html",
     "participation": [1, null]
   },
   {
-    "id":265,
+    "id":"DEL-265",
     "name":["Kiziltepe, Cansel"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kiziltepe_cansel.html",
     "participation": [1, null]
   },
   {
-    "id":266,
+    "id":"DEL-266",
     "name":["Klare, Arno"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/klare_arno.html",
     "participation": [1, null]
   },
   {
-    "id":267,
+    "id":"DEL-267",
     "name":["Klein, Volkmar"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/klein_volkmar.html",
     "participation": [1, null]
   },
   {
-    "id":268,
+    "id":"DEL-268",
     "name":["Klein-Schmeink, Maria"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/klein_schmeink_maria.html",
     "participation": [1, null]
   },
   {
-    "id":269,
+    "id":"DEL-269",
     "name":["Klimke, Jürgen"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/klimke_juergen.html",
     "participation": [1, null]
   },
   {
-    "id":270,
+    "id":"DEL-270",
     "name":["Klingbeil, Lars"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/klingbeil_lars.html",
     "participation": [1, null]
   },
   {
-    "id":271,
+    "id":"DEL-271",
     "name":["Knoerig, Axel"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/knoerig_axel.html",
     "participation": [1, null]
   },
   {
-    "id":272,
+    "id":"DEL-272",
     "name":["Koenigs, Tom"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/koenigs_tom.html",
     "participation": [1, null]
   },
   {
-    "id":273,
+    "id":"DEL-273",
     "name":["Koeppen, Jens"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/koeppen_jens.html",
     "participation": [1, null]
   },
   {
-    "id":274,
+    "id":"DEL-274",
     "name":["Kofler, Bärbel"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kofler_baerbel.html",
     "participation": [1, null]
   },
   {
-    "id":275,
+    "id":"DEL-275",
     "name":["Kolbe, Daniela"],
     "district":"Leipzig",
     "party":"SPD",
@@ -1946,119 +1946,119 @@
     "participation": [1, null]
   },
   {
-    "id":276,
+    "id":"DEL-276",
     "name":["Kömpel, Birgit"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/koempel_birgit.html",
     "participation": [1, null]
   },
   {
-    "id":277,
+    "id":"DEL-277",
     "name":["Koob, Markus"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/koob_markus.html",
     "participation": [1, null]
   },
   {
-    "id":278,
+    "id":"DEL-278",
     "name":["Körber, Carsten"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/koerber_carsten.html",
     "participation": [1, null]
   },
   {
-    "id":279,
+    "id":"DEL-279",
     "name":["Korte, Jan"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/korte_jan.html",
     "participation": [1, null]
   },
   {
-    "id":280,
+    "id":"DEL-280",
     "name":["Koschyk, Hartmut"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/koschyk_hartmut.html",
     "participation": [1, null]
   },
   {
-    "id":281,
+    "id":"DEL-281",
     "name":["Kotting-Uhl, Sylvia"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kotting_uhl_sylvia.html",
     "participation": [1, null]
   },
   {
-    "id":282,
+    "id":"DEL-282",
     "name":["Kovac, Kordula"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kovac_kordula.html",
     "participation": [1, null]
   },
   {
-    "id":283,
+    "id":"DEL-283",
     "name":["Kramme, Anette"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kramme_anette.html",
     "participation": [1, null]
   },
   {
-    "id":284,
+    "id":"DEL-284",
     "name":["Krellmann, Jutta"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/krellmann_jutta.html",
     "participation": [1, null]
   },
   {
-    "id":285,
+    "id":"DEL-285",
     "name":["Kretschmer, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kretschmer_michael.html",
     "participation": [1, null]
   },
   {
-    "id":286,
+    "id":"DEL-286",
     "name":["Krichbaum, Gunther"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/krichbaum_gunther.html",
     "participation": [1, null]
   },
   {
-    "id":287,
+    "id":"DEL-287",
     "name":["Krings, Günter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/krings_guenter.html",
     "participation": [1, null]
   },
   {
-    "id":288,
+    "id":"DEL-288",
     "name":["Krischer, Oliver"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/krischer_oliver.html",
     "participation": [1, null]
   },
   {
-    "id":289,
+    "id":"DEL-289",
     "name":["Krüger, Hans-Ulrich"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/krueger_hans-ulrich.html",
     "participation": [1, null]
   },
   {
-    "id":290,
+    "id":"DEL-290",
     "name":["Kruse, Rüdiger"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kruse_ruediger.html",
     "participation": [1, null]
   },
   {
-    "id":291,
+    "id":"DEL-291",
     "name":["Kudla, Bettina"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kudla_bettina.html",
     "participation": [1, null]
   },
   {
-    "id":292,
+    "id":"DEL-292",
     "name":["Kühn, Christian"],
     "district":"Tübingen",
     "party":"Bündnis 90/Die Grünen",
@@ -2066,7 +2066,7 @@
     "participation": [1, null]
   },
   {
-    "id":293,
+    "id":"DEL-293",
     "name":["Kühn, Stephan"],
     "district":"Dresden",
     "party":"Bündnis 90/Die Grünen",
@@ -2074,91 +2074,91 @@
     "participation": [1, null]
   },
   {
-    "id":294,
+    "id":"DEL-294",
     "name":["Kühne, Roy"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kuehne_roy.html",
     "participation": [1, null]
   },
   {
-    "id":295,
+    "id":"DEL-295",
     "name":["Kühn-Mengel, Helga"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kuehn-mengel_helga.html",
     "participation": [1, null]
   },
   {
-    "id":296,
+    "id":"DEL-296",
     "name":["Künast, Renate"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kuenast_renate.html",
     "participation": [1, null]
   },
   {
-    "id":297,
+    "id":"DEL-297",
     "name":["Kunert, Katrin"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kunert_katrin.html",
     "participation": [1, null]
   },
   {
-    "id":298,
+    "id":"DEL-298",
     "name":["Kurth, Markus"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/K/kurth_markus.html",
     "participation": [1, null]
   },
   {
-    "id":299,
+    "id":"DEL-299",
     "name":["Lach, Günter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lach_guenter.html",
     "participation": [1, null]
   },
   {
-    "id":300,
+    "id":"DEL-300",
     "name":["Lagosky, Uwe"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lagosky_uwe.html",
     "participation": [1, null]
   },
   {
-    "id":301,
+    "id":"DEL-301",
     "name":["Lambrecht, Christine"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lambrecht_christine.html",
     "participation": [1, null]
   },
   {
-    "id":302,
+    "id":"DEL-302",
     "name":["Lamers, Karl"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lamers_karl_a_.html",
     "participation": [1, null]
   },
   {
-    "id":303,
+    "id":"DEL-303",
     "name":["Lämmel, Andreas Gottfried"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/laemmel_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":304,
+    "id":"DEL-304",
     "name":["Lammert, Norbert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lammert_norbert.html",
     "participation": [1, null]
   },
   {
-    "id":305,
+    "id":"DEL-305",
     "name":["Landgraf, Katharina"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/landgraf_katharina.html",
     "participation": [1, null]
   },
   {
-    "id":306,
+    "id":"DEL-306",
     "name":["Lange, Christian"],
     "district":"Backnang",
     "party":"SPD",
@@ -2166,343 +2166,343 @@
     "participation": [1, null]
   },
   {
-    "id":307,
+    "id":"DEL-307",
     "name":["Lange, Ulrich"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lange_ulrich.html",
     "participation": [1, null]
   },
   {
-    "id":308,
+    "id":"DEL-308",
     "name":["Lanzinger, Barbara"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lanzinger_barbara.html",
     "participation": [1, null]
   },
   {
-    "id":309,
+    "id":"DEL-309",
     "name":["Launert, Silke"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/launert_silke.html",
     "participation": [1, null]
   },
   {
-    "id":310,
+    "id":"DEL-310",
     "name":["Lauterbach, Karl"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lauterbach_karl.html",
     "participation": [1, null]
   },
   {
-    "id":311,
+    "id":"DEL-311",
     "name":["Lay, Caren"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lay_caren.html",
     "participation": [1, null]
   },
   {
-    "id":312,
+    "id":"DEL-312",
     "name":["Lazar, Monika"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lazar_monika.html",
     "participation": [1, null]
   },
   {
-    "id":313,
+    "id":"DEL-313",
     "name":["Lehrieder, Paul"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lehrieder_paul.html",
     "participation": [1, null]
   },
   {
-    "id":314,
+    "id":"DEL-314",
     "name":["Leidig, Sabine"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/leidig_sabine.html",
     "participation": [1, null]
   },
   {
-    "id":315,
+    "id":"DEL-315",
     "name":["Leikert, Katja"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/leikert_katja.html",
     "participation": [1, null]
   },
   {
-    "id":316,
+    "id":"DEL-316",
     "name":["Lemke, Steffi"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lemke_steffi.html",
     "participation": [1, null]
   },
   {
-    "id":317,
+    "id":"DEL-317",
     "name":["Lemme, Steffen-Claudio"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lemme_steffen.html",
     "participation": [1, null]
   },
   {
-    "id":318,
+    "id":"DEL-318",
     "name":["Lengsfeld, Philipp"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lengsfeld_philipp.html",
     "participation": [1, null]
   },
   {
-    "id":319,
+    "id":"DEL-319",
     "name":["Lenkert, Ralph"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lenkert_ralph.html",
     "participation": [1, null]
   },
   {
-    "id":320,
+    "id":"DEL-320",
     "name":["Lenz, Andreas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lenz_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":321,
+    "id":"DEL-321",
     "name":["Lerchenfeld, Philipp Graf"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lerchenfeld_philipp_graf_von_und_zu.html",
     "participation": [1, null]
   },
   {
-    "id":322,
+    "id":"DEL-322",
     "name":["Leutert, Michael"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/leutert_michael.html",
     "participation": [1, null]
   },
   {
-    "id":323,
+    "id":"DEL-323",
     "name":["Leyen, Ursula von der"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/leyen_ursula.html",
     "participation": [1, null]
   },
   {
-    "id":324,
+    "id":"DEL-324",
     "name":["Lezius, Antje"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lezius_antje.html",
     "participation": [1, null]
   },
   {
-    "id":325,
+    "id":"DEL-325",
     "name":["Liebich, Stefan"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/liebich_stefan.html",
     "participation": [1, null]
   },
   {
-    "id":326,
+    "id":"DEL-326",
     "name":["Liebing, Ingbert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/liebing_ingbert.html",
     "participation": [1, null]
   },
   {
-    "id":327,
+    "id":"DEL-327",
     "name":["Lietz, Matthias"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lietz_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":328,
+    "id":"DEL-328",
     "name":["Lindholz, Andrea"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lindholz_andrea.html",
     "participation": [1, null]
   },
   {
-    "id":329,
+    "id":"DEL-329",
     "name":["Lindner, Tobias"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lindner_tobias.html",
     "participation": [1, null]
   },
   {
-    "id":330,
+    "id":"DEL-330",
     "name":["Linnemann, Carsten"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/linnemann_carsten.html",
     "participation": [1, null]
   },
   {
-    "id":331,
+    "id":"DEL-331",
     "name":["Lips, Patricia"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lips_patricia.html",
     "participation": [1, null]
   },
   {
-    "id":332,
+    "id":"DEL-332",
     "name":["Lischka, Burkhard"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lischka_burkhard.html",
     "participation": [1, null]
   },
   {
-    "id":333,
+    "id":"DEL-333",
     "name":["Lorenz, Wilfried"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lorenz_wilfried.html",
     "participation": [1, null]
   },
   {
-    "id":334,
+    "id":"DEL-334",
     "name":["Lösekrug-Möller, Gabriele"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/loesekrug_moeller_gabriele.html",
     "participation": [1, null]
   },
   {
-    "id":335,
+    "id":"DEL-335",
     "name":["Lotze, Hiltrud"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lotze_hiltrud.html",
     "participation": [1, null]
   },
   {
-    "id":336,
+    "id":"DEL-336",
     "name":["Lötzsch, Gesine"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/loetzsch_gesine.html",
     "participation": [1, null]
   },
   {
-    "id":337,
+    "id":"DEL-337",
     "name":["Lücking-Michel, Claudia"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/luecking-michel_claudia.html",
     "participation": [1, null]
   },
   {
-    "id":338,
+    "id":"DEL-338",
     "name":["Luczak, Jan-Marco"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/luczak_jan_marco.html",
     "participation": [1, null]
   },
   {
-    "id":339,
+    "id":"DEL-339",
     "name":["Ludwig, Daniela"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/ludwig_daniela.html",
     "participation": [1, null]
   },
   {
-    "id":340,
+    "id":"DEL-340",
     "name":["Lühmann, Kirsten"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/luehmann_kirsten.html",
     "participation": [1, null]
   },
   {
-    "id":341,
+    "id":"DEL-341",
     "name":["Lutze, Thomas"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/L/lutze_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":342,
+    "id":"DEL-342",
     "name":["Maag, Karin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/maag_karin.html",
     "participation": [1, null]
   },
   {
-    "id":343,
+    "id":"DEL-343",
     "name":["Magwas, Yvonne"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/magwas_yvonne.html",
     "participation": [1, null]
   },
   {
-    "id":344,
+    "id":"DEL-344",
     "name":["Mahlberg, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mahlberg_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":345,
+    "id":"DEL-345",
     "name":["Maisch, Nicole"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/maisch_nicole.html",
     "participation": [1, null]
   },
   {
-    "id":346,
+    "id":"DEL-346",
     "name":["Maizière, Thomas de"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/maiziere_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":347,
+    "id":"DEL-347",
     "name":["Malecha-Nissen, Birgit"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/malecha-nissen_birgit.html",
     "participation": [1, null]
   },
   {
-    "id":348,
+    "id":"DEL-348",
     "name":["Manderla, Gisela"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/manderla_gisela.html",
     "participation": [1, null]
   },
   {
-    "id":349,
+    "id":"DEL-349",
     "name":["Marks, Caren"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/marks_caren.html",
     "participation": [1, null]
   },
   {
-    "id":350,
+    "id":"DEL-350",
     "name":["Marschall, Matern von", "Matern Marschall von Bieberstein"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/marschallvon_matern.html",
     "participation": [1, null]
   },
   {
-    "id":351,
+    "id":"DEL-351",
     "name":["Marwitz, Hans-Georg von der"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/marwitz_hans_georg.html",
     "participation": [1, null]
   },
   {
-    "id":352,
+    "id":"DEL-352",
     "name":["Mast, Katja"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mast_katja.html",
     "participation": [1, null]
   },
   {
-    "id":353,
+    "id":"DEL-353",
     "name":["Mattfeldt, Andreas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mattfeldt_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":354,
+    "id":"DEL-354",
     "name":["Mattheis, Hilde"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mattheis_hilde.html",
     "participation": [1, null]
   },
   {
-    "id":355,
+    "id":"DEL-355",
     "name":["Mayer, Stephan"],
     "district":"Altötting",
     "party":"CDU/CSU",
@@ -2510,147 +2510,147 @@
     "participation": [1, null]
   },
   {
-    "id":356,
+    "id":"DEL-356",
     "name":["Meier, Reiner"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/meier_reiner.html",
     "participation": [1, null]
   },
   {
-    "id":357,
+    "id":"DEL-357",
     "name":["Meister, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/meister_michael.html",
     "participation": [1, null]
   },
   {
-    "id":358,
+    "id":"DEL-358",
     "name":["Meiwald, Peter"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/meiwald_peter.html",
     "participation": [1, null]
   },
   {
-    "id":359,
+    "id":"DEL-359",
     "name":["Merkel, Angela"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/merkel_angela.html",
     "participation": [1, null]
   },
   {
-    "id":360,
+    "id":"DEL-360",
     "name":["Metzler, Jan"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/metzler_jan.html",
     "participation": [1, null]
   },
   {
-    "id":361,
+    "id":"DEL-361",
     "name":["Michalk, Maria"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/michalk_maria.html",
     "participation": [1, null]
   },
   {
-    "id":362,
+    "id":"DEL-362",
     "name":["Michelbach, Hans"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/michelbach_hans.html",
     "participation": [1, null]
   },
   {
-    "id":363,
+    "id":"DEL-363",
     "name":["Middelberg, Mathias"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/middelberg_mathias.html",
     "participation": [1, null]
   },
   {
-    "id":364,
+    "id":"DEL-364",
     "name":["Miersch, Matthias"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/miersch_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":365,
+    "id":"DEL-365",
     "name":["Mihalic, Irene"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mihalic_irene.html",
     "participation": [1, null]
   },
   {
-    "id":366,
+    "id":"DEL-366",
     "name":["Mindrup, Klaus"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mindrup_klaus.html",
     "participation": [1, null]
   },
   {
-    "id":367,
+    "id":"DEL-367",
     "name":["Mißfelder, Philipp"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/missfelder_philipp.html",
     "participation": [1, null]
   },
   {
-    "id":368,
+    "id":"DEL-368",
     "name":["Mittag, Susanne"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mittag_susanne.html",
     "participation": [1, null]
   },
   {
-    "id":369,
+    "id":"DEL-369",
     "name":["Möhring, Cornelia"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/moehring_cornelia.html",
     "participation": [1, null]
   },
   {
-    "id":370,
+    "id":"DEL-370",
     "name":["Monstadt, Dietrich"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/monstadt_dietrich.html",
     "participation": [1, null]
   },
   {
-    "id":371,
+    "id":"DEL-371",
     "name":["Möring, Karsten"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/moering_karsten.html",
     "participation": [1, null]
   },
   {
-    "id":372,
+    "id":"DEL-372",
     "name":["Mortler, Marlene"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mortler_marlene.html",
     "participation": [1, null]
   },
   {
-    "id":373,
+    "id":"DEL-373",
     "name":["Motschmann, Elisabeth"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/motschmann_elisabeth.html",
     "participation": [1, null]
   },
   {
-    "id":374,
+    "id":"DEL-374",
     "name":["Movassat, Niema"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/movassat_niema.html",
     "participation": [1, null]
   },
   {
-    "id":375,
+    "id":"DEL-375",
     "name":["Müller, Bettina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mueller_bettina.html",
     "participation": [1, null]
   },
   {
-    "id":376,
+    "id":"DEL-376",
     "name":["Müller, Carsten"],
     "district":"Braunschweig",
     "party":"CDU/CSU",
@@ -2658,14 +2658,14 @@
     "participation": [1, null]
   },
   {
-    "id":377,
+    "id":"DEL-377",
     "name":["Müller, Gerd"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mueller_gerd.html",
     "participation": [1, null]
   },
   {
-    "id":378,
+    "id":"DEL-378",
     "name":["Müller, Stefan"],
     "district":"Erlangen",
     "party":"CDU/CSU",
@@ -2673,168 +2673,168 @@
     "participation": [1, null]
   },
   {
-    "id":379,
+    "id":"DEL-379",
     "name":["Müller-Gemmeke, Beate"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mueller_gemmeke_beate.html",
     "participation": [1, null]
   },
   {
-    "id":380,
+    "id":"DEL-380",
     "name":["Müntefering, Michelle"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/muentefering_michelle.html",
     "participation": [1, null]
   },
   {
-    "id":381,
+    "id":"DEL-381",
     "name":["Murmann, Philipp"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/murmann_philipp.html",
     "participation": [1, null]
   },
   {
-    "id":382,
+    "id":"DEL-382",
     "name":["Mutlu, Özcan"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/mutlu_oezcan.html",
     "participation": [1, null]
   },
   {
-    "id":383,
+    "id":"DEL-383",
     "name":["Mützenich, Rolf"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/M/muetzenich_rolf.html",
     "participation": [1, null]
   },
   {
-    "id":384,
+    "id":"DEL-384",
     "name":["Nahles, Andrea"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nahles_andrea.html",
     "participation": [1, null]
   },
   {
-    "id":385,
+    "id":"DEL-385",
     "name":["Neu, Alexander"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/neu_alexander.html",
     "participation": [1, null]
   },
   {
-    "id":386,
+    "id":"DEL-386",
     "name":["Nick, Andreas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nick_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":387,
+    "id":"DEL-387",
     "name":["Nietan, Dietmar"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nietan_dietmar.html",
     "participation": [1, null]
   },
   {
-    "id":388,
+    "id":"DEL-388",
     "name":["Nissen, Ulli", "Nissen, Ulrike"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nissen_ulli.html",
     "participation": [1, null]
   },
   {
-    "id":389,
+    "id":"DEL-389",
     "name":["Noll, Michaela"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/noll_michaela.html",
     "participation": [1, null]
   },
   {
-    "id":390,
+    "id":"DEL-390",
     "name":["Nord, Thomas"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nord_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":391,
+    "id":"DEL-391",
     "name":["Notz, Konstantin von"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/notz_konstantin.html",
     "participation": [1, null]
   },
   {
-    "id":392,
+    "id":"DEL-392",
     "name":["Nouripour, Omid"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nouripour_omid.html",
     "participation": [1, null]
   },
   {
-    "id":393,
+    "id":"DEL-393",
     "name":["Nowak, Helmut"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nowak_helmut.html",
     "participation": [1, null]
   },
   {
-    "id":394,
+    "id":"DEL-394",
     "name":["Nüßlein, Georg"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/N/nuesslein_georg.html",
     "participation": [1, null]
   },
   {
-    "id":395,
+    "id":"DEL-395",
     "name":["Oellers, Wilfried"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/oellers_wilfried.html",
     "participation": [1, null]
   },
   {
-    "id":396,
+    "id":"DEL-396",
     "name":["Oppermann, Thomas"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/oppermann_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":397,
+    "id":"DEL-397",
     "name":["Oßner, Florian"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/ossner_florian.html",
     "participation": [1, null]
   },
   {
-    "id":398,
+    "id":"DEL-398",
     "name":["Ostendorff, Friedrich"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/ostendorff_friedrich.html",
     "participation": [1, null]
   },
   {
-    "id":399,
+    "id":"DEL-399",
     "name":["Ostermann, Tim"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/ostermann_tim.html",
     "participation": [1, null]
   },
   {
-    "id":400,
+    "id":"DEL-400",
     "name":["Otte, Henning"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/otte_henning.html",
     "participation": [1, null]
   },
   {
-    "id":401,
+    "id":"DEL-401",
     "name":["Özdemir, Cem"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/oezdemir_cem.html",
     "participation": [1, null]
   },
   {
-    "id":402,
+    "id":"DEL-402",
     "name":["Özdemir, Mahmut"],
     "district":"Duisburg",
     "party":"SPD",
@@ -2842,70 +2842,70 @@
     "participation": [1, null]
   },
   {
-    "id":403,
-    "name":["Özoğuz, Aydan"],
+    "id":"DEL-403",
+    "name":["Özoguz, Aydan"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/O/oezoguz_aydan.html",
     "participation": [1, null]
   },
   {
-    "id":404,
+    "id":"DEL-404",
     "name":["Pahlmann, Ingrid"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pahlmann_ingrid.html",
     "participation": [1, null]
   },
   {
-    "id":405,
+    "id":"DEL-405",
     "name":["Pantel, Sylvia"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pantel_sylvia.html",
     "participation": [1, null]
   },
   {
-    "id":406,
+    "id":"DEL-406",
     "name":["Paschke, Markus"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/paschke_markus.html",
     "participation": [1, null]
   },
   {
-    "id":407,
+    "id":"DEL-407",
     "name":["Patzelt, Martin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/patzelt_martin.html",
     "participation": [1, null]
   },
   {
-    "id":408,
+    "id":"DEL-408",
     "name":["Pätzold, Martin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/paetzold_martin.html",
     "participation": [1, null]
   },
   {
-    "id":409,
+    "id":"DEL-409",
     "name":["Pau, Petra"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pau_petra.html",
     "participation": [1, null]
   },
   {
-    "id":410,
+    "id":"DEL-410",
     "name":["Paus, Lisa"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/paus_lisa.html",
     "participation": [1, null]
   },
   {
-    "id":411,
+    "id":"DEL-411",
     "name":["Petry, Christian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/petry_christian.html",
     "participation": [7, null]
   },
   {
-    "id":412,
+    "id":"DEL-412",
     "name":["Petzold, Harald"],
     "district":"Havelland",
     "party":"Die Linke",
@@ -2913,77 +2913,77 @@
     "participation": [1, null]
   },
   {
-    "id":413,
+    "id":"DEL-413",
     "name":["Petzold, Ulrich"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/petzold_ulrich.html",
     "participation": [1, null]
   },
   {
-    "id":414,
+    "id":"DEL-414",
     "name":["Pfeiffer, Joachim"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pfeiffer_joachim.html",
     "participation": [1, null]
   },
   {
-    "id":415,
+    "id":"DEL-415",
     "name":["Pfeiffer, Sibylle"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pfeiffer_sibylle.html",
     "participation": [1, null]
   },
   {
-    "id":416,
+    "id":"DEL-416",
     "name":["Pflugradt, Jeannine"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pflugradt_jeannine.html",
     "participation": [1, null]
   },
   {
-    "id":417,
+    "id":"DEL-417",
     "name":["Pilger, Detlev"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pilger_detlev.html",
     "participation": [1, null]
   },
   {
-    "id":418,
+    "id":"DEL-418",
     "name":["Pitterle, Richard"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pitterle_richard.html",
     "participation": [1, null]
   },
   {
-    "id":419,
+    "id":"DEL-419",
     "name":["Pofalla, Ronald"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pofalla_ronald.html",
     "participation": [1, null]
   },
   {
-    "id":420,
+    "id":"DEL-420",
     "name":["Pols, Eckhard"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pols_eckhard.html",
     "participation": [1, null]
   },
   {
-    "id":421,
+    "id":"DEL-421",
     "name":["Poschmann, Sabine"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/poschmann_sabine.html",
     "participation": [1, null]
   },
   {
-    "id":422,
+    "id":"DEL-422",
     "name":["Poß, Joachim"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/poss_joachim.html",
     "participation": [1, null]
   },
   {
-    "id":423,
+    "id":"DEL-423",
     "name":["Post, Achim"],
     "district":"Minden",
     "party":"SPD",
@@ -2991,112 +2991,112 @@
     "participation": [1, null]
   },
   {
-    "id":424,
+    "id":"DEL-424",
     "name":["Post, Florian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/post_florian.html",
     "participation": [1, null]
   },
   {
-    "id":425,
+    "id":"DEL-425",
     "name":["Pothmer, Brigitte"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pothmer_brigitte.html",
     "participation": [1, null]
   },
   {
-    "id":426,
+    "id":"DEL-426",
     "name":["Priesmeier, Wilhelm"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/priesmeier_wilhelm.html",
     "participation": [1, null]
   },
   {
-    "id":427,
+    "id":"DEL-427",
     "name":["Pronold, Florian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/P/pronold_florian.html",
     "participation": [1, null]
   },
   {
-    "id":428,
+    "id":"DEL-428",
     "name":["Raabe, Sascha"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/raabe_sascha.html",
     "participation": [1, null]
   },
   {
-    "id":429,
+    "id":"DEL-429",
     "name":["Raatz, Simone"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/raatz_simone.html",
     "participation": [1, null]
   },
   {
-    "id":430,
+    "id":"DEL-430",
     "name":["Rabanus, Martin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rabanus_martin.html",
     "participation": [1, null]
   },
   {
-    "id":431,
+    "id":"DEL-431",
     "name":["Rachel, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rachel_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":432,
+    "id":"DEL-432",
     "name":["Radomski, Kerstin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/radomski_kerstin.html",
     "participation": [1, null]
   },
   {
-    "id":433,
+    "id":"DEL-433",
     "name":["Radwan, Alexander"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/radwan_alexander.html",
     "participation": [1, null]
   },
   {
-    "id":434,
+    "id":"DEL-434",
     "name":["Rainer, Alois"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rainer_alois.html",
     "participation": [1, null]
   },
   {
-    "id":435,
+    "id":"DEL-435",
     "name":["Ramsauer, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/ramsauer_peter.html",
     "participation": [1, null]
   },
   {
-    "id":436,
+    "id":"DEL-436",
     "name":["Rawert, Mechthild"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rawert_mechthild.html",
     "participation": [1, null]
   },
   {
-    "id":437,
+    "id":"DEL-437",
     "name":["Rebmann, Stefan"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rebmann_stefan.html",
     "participation": [1, null]
   },
   {
-    "id":438,
+    "id":"DEL-438",
     "name":["Rehberg, Eckhardt"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rehberg_eckhardt.html",
     "participation": [1, null]
   },
   {
-    "id":439,
+    "id":"DEL-439",
     "name":["Reiche, Katherina"],
     "district":"Potsdam",
     "party":"CDU/CSU",
@@ -3104,105 +3104,105 @@
     "participation": [1, null]
   },
   {
-    "id":440,
+    "id":"DEL-440",
     "name":["Reichenbach, Gerold"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/reichenbach_gerold.html",
     "participation": [1, null]
   },
   {
-    "id":441,
+    "id":"DEL-441",
     "name":["Reimann, Carola"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/reimann_carola.html",
     "participation": [1, null]
   },
   {
-    "id":442,
+    "id":"DEL-442",
     "name":["Renner, Martina"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/renner_martina.html",
     "participation": [1, null]
   },
   {
-    "id":443,
+    "id":"DEL-443",
     "name":["Riebsamen, Lothar"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/riebsamen_lothar.html",
     "participation": [1, null]
   },
   {
-    "id":444,
+    "id":"DEL-444",
     "name":["Rief, Josef"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rief_josef.html",
     "participation": [1, null]
   },
   {
-    "id":445,
+    "id":"DEL-445",
     "name":["Riesenhuber, Heinz"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/riesenhuber_heinz.html",
     "participation": [1, null]
   },
   {
-    "id":446,
+    "id":"DEL-446",
     "name":["Rimkus, Andreas"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rimkus_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":447,
+    "id":"DEL-447",
     "name":["Rix, Sönke"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rix_soenke.html",
     "participation": [1, null]
   },
   {
-    "id":448,
+    "id":"DEL-448",
     "name":["Rohde, Dennis"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rohde_dennis.html",
     "participation": [1, null]
   },
   {
-    "id":449,
+    "id":"DEL-449",
     "name":["Röring, Johannes"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/roering_johannes.html",
     "participation": [1, null]
   },
   {
-    "id":450,
+    "id":"DEL-450",
     "name":["Rosemann, Martin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rosemann_martin.html",
     "participation": [1, null]
   },
   {
-    "id":451,
+    "id":"DEL-451",
     "name":["Röspel, René"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/roespel_rene.html",
     "participation": [1, null]
   },
   {
-    "id":452,
+    "id":"DEL-452",
     "name":["Rossmann, Ernst Dieter"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rossmann_ernst_dieter.html",
     "participation": [1, null]
   },
   {
-    "id":453,
+    "id":"DEL-453",
     "name":["Rößner, Tabea"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/roessner_tabea.html",
     "participation": [1, null]
   },
   {
-    "id":454,
+    "id":"DEL-454",
     "name":["Roth, Claudia"],
     "district":"Augsburg",
     "party":"Bündnis 90/Die Grünen",
@@ -3210,7 +3210,7 @@
     "participation": [1, null]
   },
   {
-    "id":455,
+    "id":"DEL-455",
     "name":["Roth, Michael"],
     "district":"Heringen",
     "party":"SPD",
@@ -3218,28 +3218,28 @@
     "participation": [1, null]
   },
   {
-    "id":456,
+    "id":"DEL-456",
     "name":["Röttgen, Norbert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/roettgen_norbert.html",
     "participation": [1, null]
   },
   {
-    "id":457,
+    "id":"DEL-457",
     "name":["Rüddel, Erwin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rueddel_erwin.html",
     "participation": [1, null]
   },
   {
-    "id":458,
+    "id":"DEL-458",
     "name":["Rüffer, Corinna"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/rueffer_corinna.html",
     "participation": [1, null]
   },
   {
-    "id":459,
+    "id":"DEL-459",
     "name":["Rupprecht, Albert"],
     "district":"Weiden",
     "party":"CDU/CSU",
@@ -3247,49 +3247,49 @@
     "participation": [1, null]
   },
   {
-    "id":460,
+    "id":"DEL-460",
     "name":["Rüthrich, Susann"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/ruethrich_susann.html",
     "participation": [1, null]
   },
   {
-    "id":461,
+    "id":"DEL-461",
     "name":["Rützel, Bernd"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/R/ruetzel_bernd.html",
     "participation": [1, null]
   },
   {
-    "id":462,
+    "id":"DEL-462",
     "name":["Saathoff, Johann"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/saathoff_johann.html",
     "participation": [1, null]
   },
   {
-    "id":463,
+    "id":"DEL-463",
     "name":["Sarrazin, Manuel"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/sarrazin_manuel.html",
     "participation": [1, null]
   },
   {
-    "id":464,
+    "id":"DEL-464",
     "name":["Sawade, Annette"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/sawade_annette.html",
     "participation": [1, null]
   },
   {
-    "id":465,
+    "id":"DEL-465",
     "name":["Schabedoth, Hans-Joachim"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schabedoth_joachim.html",
     "participation": [1, null]
   },
   {
-    "id":466,
+    "id":"DEL-466",
     "name":["Schäfer, Anita"],
     "district":"Saalstadt",
     "party":"CDU/CSU",
@@ -3297,7 +3297,7 @@
     "participation": [1, null]
   },
   {
-    "id":467,
+    "id":"DEL-467",
     "name":["Schäfer, Axel"],
     "district":"Bochum",
     "party":"SPD",
@@ -3305,56 +3305,56 @@
     "participation": [1, null]
   },
   {
-    "id":468,
+    "id":"DEL-468",
     "name":["Scharfenberg, Elisabeth"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/scharfenberg_elisabeth.html",
     "participation": [1, null]
   },
   {
-    "id":469,
+    "id":"DEL-469",
     "name":["Schäuble, Wolfgang"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schaeuble_wolfgang.html",
     "participation": [1, null]
   },
   {
-    "id":470,
+    "id":"DEL-470",
     "name":["Schauws, Ulle"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schauws_ulle.html",
     "participation": [1, null]
   },
   {
-    "id":471,
+    "id":"DEL-471",
     "name":["Schavan, Annette"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schavan_annette.html",
     "participation": [1, null]
   },
   {
-    "id":472,
+    "id":"DEL-472",
     "name":["Scheer, Nina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/scheer_nina.html",
     "participation": [1, null]
   },
   {
-    "id":473,
+    "id":"DEL-473",
     "name":["Scheuer, Andreas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/scheuer_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":474,
+    "id":"DEL-474",
     "name":["Schick, Gerhard"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schick_gerhard.html",
     "participation": [1, null]
   },
   {
-    "id":475,
+    "id":"DEL-475",
     "name":["Schieder, Marianne"],
     "district":"Schwandorf",
     "party":"SPD",
@@ -3362,63 +3362,63 @@
     "participation": [1, null]
   },
   {
-    "id":476,
+    "id":"DEL-476",
     "name":["Schiefner, Udo"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schiefner_udo.html",
     "participation": [1, null]
   },
   {
-    "id":477,
+    "id":"DEL-477",
     "name":["Schiewerling, Karl"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schiewerling_karl.html",
     "participation": [1, null]
   },
   {
-    "id":478,
+    "id":"DEL-478",
     "name":["Schimke, Jana"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schimke_jana.html",
     "participation": [1, null]
   },
   {
-    "id":479,
+    "id":"DEL-479",
     "name":["Schindler, Norbert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schindler_norbert.html",
     "participation": [1, null]
   },
   {
-    "id":480,
+    "id":"DEL-480",
     "name":["Schipanski, Tankred"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schipanski_tankred.html",
     "participation": [1, null]
   },
   {
-    "id":481,
+    "id":"DEL-481",
     "name":["Schlecht, Michael"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schlecht_michael.html",
     "participation": [1, null]
   },
   {
-    "id":482,
+    "id":"DEL-482",
     "name":["Schlegel, Dorothee"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schlegel_dorothee.html",
     "participation": [1, null]
   },
   {
-    "id":483,
+    "id":"DEL-483",
     "name":["Schmelzle, Heiko"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schmelzle_heiko.html",
     "participation": [1, null]
   },
   {
-    "id":484,
+    "id":"DEL-484",
     "name":["Schmidt, Christian"],
     "district":"Fürth",
     "party":"CDU/CSU",
@@ -3426,7 +3426,7 @@
     "participation": [1, null]
   },
   {
-    "id":485,
+    "id":"DEL-485",
     "name":["Schmidt, Dagmar"],
     "district":"Wetzlar",
     "party":"SPD",
@@ -3434,14 +3434,14 @@
     "participation": [1, null]
   },
   {
-    "id":486,
+    "id":"DEL-486",
     "name":["Schmidt, Frithjof"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schmidt_frithjof.html",
     "participation": [1, null]
   },
   {
-    "id":487,
+    "id":"DEL-487",
     "name":["Schmidt, Gabriele"],
     "district":"Ühlingen",
     "party":"CDU/CSU",
@@ -3449,7 +3449,7 @@
     "participation": [1, null]
   },
   {
-    "id":488,
+    "id":"DEL-488",
     "name":["Schmidt, Matthias"],
     "district":"Berlin",
     "party":"SPD",
@@ -3457,7 +3457,7 @@
     "participation": [1, null]
   },
   {
-    "id":489,
+    "id":"DEL-489",
     "name":["Schmidt, Ulla"],
     "district":"Aachen",
     "party":"SPD",
@@ -3465,7 +3465,7 @@
     "participation": [1, null]
   },
   {
-    "id":490,
+    "id":"DEL-490",
     "name":["Schneider, Carsten"],
     "district":"Erfurt",
     "party":"SPD",
@@ -3473,21 +3473,21 @@
     "participation": [1, null]
   },
   {
-    "id":491,
+    "id":"DEL-491",
     "name":["Schnieder, Patrick"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schnieder_patrick.html",
     "participation": [1, null]
   },
   {
-    "id":492,
+    "id":"DEL-492",
     "name":["Schockenhoff, Andreas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schockenhoff_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":493,
+    "id":"DEL-493",
     "name":["Schön, Nadine"],
     "district":"St. Wendel",
     "party":"CDU/CSU",
@@ -3495,7 +3495,7 @@
     "participation": [1, null]
   },
   {
-    "id":494,
+    "id":"DEL-494",
     "name":["Schröder, Kristina"],
     "district":"Wiesbaden",
     "party":"CDU/CSU",
@@ -3503,28 +3503,28 @@
     "participation": [1, null]
   },
   {
-    "id":495,
+    "id":"DEL-495",
     "name":["Schröder, Ole"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schroeder_ole.html",
     "participation": [1, null]
   },
   {
-    "id":496,
+    "id":"DEL-496",
     "name":["Schulte, Ursula"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schulte_ursula.html",
     "participation": [1, null]
   },
   {
-    "id":497,
+    "id":"DEL-497",
     "name":["Schulte-Drüggelte, Bernhard"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schulte_drueggelte_bernhard.html",
     "participation": [1, null]
   },
   {
-    "id":498,
+    "id":"DEL-498",
     "name":["Schulz, Swen"],
     "district":"Spandau",
     "party":"SPD",
@@ -3532,35 +3532,35 @@
     "participation": [1, null]
   },
   {
-    "id":499,
+    "id":"DEL-499",
     "name":["Schulz-Asche, Kordula"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schulz-asche_kordula.html",
     "participation": [1, null]
   },
   {
-    "id":500,
+    "id":"DEL-500",
     "name":["Schulze, Klaus-Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schulze_klaus-peter.html",
     "participation": [1, null]
   },
   {
-    "id":501,
+    "id":"DEL-501",
     "name":["Schummer, Uwe"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schummer_uwe.html",
     "participation": [1, null]
   },
   {
-    "id":502,
+    "id":"DEL-502",
     "name":["Schurer, Ewald"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schurer_ewald.html",
     "participation": [1, null]
   },
   {
-    "id":503,
+    "id":"DEL-503",
     "name":["Schuster, Armin"],
     "district":"Weil am Rhein",
     "party":"CDU/CSU",
@@ -3568,308 +3568,308 @@
     "participation": [1, null]
   },
   {
-    "id":504,
+    "id":"DEL-504",
     "name":["Schwabe, Frank"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schwabe_frank.html",
     "participation": [1, null]
   },
   {
-    "id":505,
+    "id":"DEL-505",
     "name":["Schwartze, Stefan"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schwartze_stefan.html",
     "participation": [1, null]
   },
   {
-    "id":506,
+    "id":"DEL-506",
     "name":["Schwarz, Andreas"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schwarz_andreas.html",
     "participation": [1, null]
   },
   {
-    "id":507,
+    "id":"DEL-507",
     "name":["Schwarzelühr-Sutter, Rita"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schwarzeluehr-sutter_rita.html",
     "participation": [1, null]
   },
   {
-    "id":508,
+    "id":"DEL-508",
     "name":["Schwarzer, Christina"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/schwarzer_christina.html",
     "participation": [1, null]
   },
   {
-    "id":509,
+    "id":"DEL-509",
     "name":["Seif, Detlef"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/seif_detlef.html",
     "participation": [1, null]
   },
   {
-    "id":510,
+    "id":"DEL-510",
     "name":["Selle, Johannes"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/selle_johannes.html",
     "participation": [1, null]
   },
   {
-    "id":511,
+    "id":"DEL-511",
     "name":["Sendker, Reinhold"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/sendker_reinhold.html",
     "participation": [1, null]
   },
   {
-    "id":512,
+    "id":"DEL-512",
     "name":["Sensburg, Patrick"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/sensburg_patrick.html",
     "participation": [1, null]
   },
   {
-    "id":513,
+    "id":"DEL-513",
     "name":["Siebert, Bernd"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/siebert_bernd.html",
     "participation": [1, null]
   },
   {
-    "id":514,
+    "id":"DEL-514",
     "name":["Sieling, Carsten"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/sieling_carsten.html",
     "participation": [1, null]
   },
   {
-    "id":515,
+    "id":"DEL-515",
     "name":["Silberhorn, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/silberhorn_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":516,
+    "id":"DEL-516",
     "name":["Singhammer, Johannes"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/singhammer_johannes.html",
     "participation": [1, null]
   },
   {
-    "id":517,
+    "id":"DEL-517",
     "name":["Sitte, Petra"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/sitte_petra.html",
     "participation": [1, null]
   },
   {
-    "id":518,
+    "id":"DEL-518",
     "name":["Sorge, Tino"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/sorge_tino.html",
     "participation": [1, null]
   },
   {
-    "id":519,
+    "id":"DEL-519",
     "name":["Spahn, Jens"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/spahn_jens.html",
     "participation": [1, null]
   },
   {
-    "id":520,
+    "id":"DEL-520",
     "name":["Spiering, Rainer"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/spiering_rainer.html",
     "participation": [1, null]
   },
   {
-    "id":521,
+    "id":"DEL-521",
     "name":["Spinrath, Norbert"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/spinrath_norbert.html",
     "participation": [1, null]
   },
   {
-    "id":522,
+    "id":"DEL-522",
     "name":["Stadler, Svenja"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stadler_svenja.html",
     "participation": [1, null]
   },
   {
-    "id":523,
+    "id":"DEL-523",
     "name":["Stamm-Fibich, Martina"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stamm-fibich_martina.html",
     "participation": [1, null]
   },
   {
-    "id":524,
+    "id":"DEL-524",
     "name":["Stauche, Carola"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stauche_carola.html",
     "participation": [1, null]
   },
   {
-    "id":525,
+    "id":"DEL-525",
     "name":["Steffel, Frank"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steffel_frank.html",
     "participation": [1, null]
   },
   {
-    "id":526,
+    "id":"DEL-526",
     "name":["Steffen, Sonja"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steffen_sonja.html",
     "participation": [1, null]
   },
   {
-    "id":527,
+    "id":"DEL-527",
     "name":["Stefinger, Wolfgang"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stefinger_wolfgang.html",
     "participation": [1, null]
   },
   {
-    "id":528,
+    "id":"DEL-528",
     "name":["Stegemann, Albert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stegemann_albert.html",
     "participation": [1, null]
   },
   {
-    "id":529,
+    "id":"DEL-529",
     "name":["Stein, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stein_peter.html",
     "participation": [1, null]
   },
   {
-    "id":530,
+    "id":"DEL-530",
     "name":["Steinbach, Erika"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steinbach_erika.html",
     "participation": [1, null]
   },
   {
-    "id":531,
+    "id":"DEL-531",
     "name":["Steinbrück, Peer"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steinbrueck_peer.html",
     "participation": [1, null]
   },
   {
-    "id":532,
+    "id":"DEL-532",
     "name":["Steineke, Sebastian"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steineke_sebastian.html",
     "participation": [1, null]
   },
   {
-    "id":533,
+    "id":"DEL-533",
     "name":["Steiniger, Johannes"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steiniger_johannes.html",
     "participation": [1, null]
   },
   {
-    "id":534,
+    "id":"DEL-534",
     "name":["Steinke, Kersten"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steinke_kersten.html",
     "participation": [1, null]
   },
   {
-    "id":535,
+    "id":"DEL-535",
     "name":["Steinmeier, Frank-Walter"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/steinmeier_frank_walter.html",
     "participation": [1, null]
   },
   {
-    "id":536,
+    "id":"DEL-536",
     "name":["Stetten, Christian Freiherr von"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stetten_christian.html",
     "participation": [1, null]
   },
   {
-    "id":537,
+    "id":"DEL-537",
     "name":["Stier, Dieter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stier_dieter.html",
     "participation": [1, null]
   },
   {
-    "id":538,
+    "id":"DEL-538",
     "name":["Stockhofe, Rita"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stockhofe_rita.html",
     "participation": [1, null]
   },
   {
-    "id":539,
+    "id":"DEL-539",
     "name":["Storjohann, Gero"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/storjohann_gero.html",
     "participation": [1, null]
   },
   {
-    "id":540,
+    "id":"DEL-540",
     "name":["Stracke, Stephan"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stracke_stephan.html",
     "participation": [1, null]
   },
   {
-    "id":541,
+    "id":"DEL-541",
     "name":["Strässer, Christoph"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/straesser_christoph.html",
     "participation": [1, null]
   },
   {
-    "id":542,
+    "id":"DEL-542",
     "name":["Straubinger, Max"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/straubinger_max.html",
     "participation": [1, null]
   },
   {
-    "id":543,
+    "id":"DEL-543",
     "name":["Strebl, Matthäus"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/strebl_matthaeus.html",
     "participation": [1, null]
   },
   {
-    "id":544,
+    "id":"DEL-544",
     "name":["Strenz, Karin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/strenz_karin.html",
     "participation": [1, null]
   },
   {
-    "id":545,
+    "id":"DEL-545",
     "name":["Stritzl, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stritzl_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":546,
+    "id":"DEL-546",
     "name":["Ströbele, Hans-Christian"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stroebele_hans_christian.html",
     "participation": [1, null]
   },
   {
-    "id":547,
+    "id":"DEL-547",
     "name":["Strobl, Thomas"],
     "district":"Heilbronn",
     "party":"CDU/CSU",
@@ -3877,203 +3877,203 @@
     "participation": [1, null]
   },
   {
-    "id":548,
+    "id":"DEL-548",
     "name":["Strothmann, Lena"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/strothmann_lena.html",
     "participation": [1, null]
   },
   {
-    "id":549,
+    "id":"DEL-549",
     "name":["Stübgen, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/stuebgen_michael.html",
     "participation": [1, null]
   },
   {
-    "id":550,
+    "id":"DEL-550",
     "name":["Sütterlin-Waack, Sabine"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/suetterlin-waack_sabine.html",
     "participation": [1, null]
   },
   {
-    "id":551,
+    "id":"DEL-551",
     "name":["Tack, Kerstin"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tack_kerstin.html",
     "participation": [1, null]
   },
   {
-    "id":552,
+    "id":"DEL-552",
     "name":["Tackmann, Kirsten"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tackmann_kirsten.html",
     "participation": [1, null]
   },
   {
-    "id":553,
+    "id":"DEL-553",
     "name":["Tank, Azize"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tank_azize.html",
     "participation": [1, null]
   },
   {
-    "id":554,
+    "id":"DEL-554",
     "name":["Tauber, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tauber_peter.html",
     "participation": [1, null]
   },
   {
-    "id":555,
+    "id":"DEL-555",
     "name":["Tausend, Claudia"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tausend_claudia.html",
     "participation": [1, null]
   },
   {
-    "id":556,
+    "id":"DEL-556",
     "name":["Tempel, Frank"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tempel_frank.html",
     "participation": [1, null]
   },
   {
-    "id":557,
+    "id":"DEL-557",
     "name":["Terpe, Harald"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/terpe_harald.html",
     "participation": [1, null]
   },
   {
-    "id":558,
+    "id":"DEL-558",
     "name":["Thews, Michael"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/thews_michael.html",
     "participation": [1, null]
   },
   {
-    "id":559,
+    "id":"DEL-559",
     "name":["Thönnes, Franz"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/thoennes_franz.html",
     "participation": [1, null]
   },
   {
-    "id":560,
+    "id":"DEL-560",
     "name":["Tiefensee, Wolfgang"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tiefensee_wolfgang.html",
     "participation": [1, null]
   },
   {
-    "id":561,
+    "id":"DEL-561",
     "name":["Tillmann, Antje"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tillmann_antje.html",
     "participation": [1, null]
   },
   {
-    "id":562,
+    "id":"DEL-562",
     "name":["Timmermann-Fechter, Astrid"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/timmermann-fechter_astrid.html",
     "participation": [1, null]
   },
   {
-    "id":563,
+    "id":"DEL-563",
     "name":["Träger, Carsten"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/traeger_carsten.html",
     "participation": [1, null]
   },
   {
-    "id":564,
+    "id":"DEL-564",
     "name":["Tressel, Markus"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/tressel_markus.html",
     "participation": [1, null]
   },
   {
-    "id":565,
+    "id":"DEL-565",
     "name":["Trittin, Jürgen"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/trittin_juergen.html",
     "participation": [1, null]
   },
   {
-    "id":566,
+    "id":"DEL-566",
     "name":["Troost, Axel"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/T/troost_axel.html",
     "participation": [1, null]
   },
   {
-    "id":567,
+    "id":"DEL-567",
     "name":["Uhl, Hans-Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/U/uhl_hans_peter.html",
     "participation": [1, null]
   },
   {
-    "id":568,
+    "id":"DEL-568",
     "name":["Ullrich, Volker"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/U/ullrich_volker.html",
     "participation": [1, null]
   },
   {
-    "id":569,
+    "id":"DEL-569",
     "name":["Ulrich, Alexander"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/U/ulrich_alexander.html",
     "participation": [1, null]
   },
   {
-    "id":570,
+    "id":"DEL-570",
     "name":["Vaatz, Arnold"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/vaatz_arnold.html",
     "participation": [1, null]
   },
   {
-    "id":571,
+    "id":"DEL-571",
     "name":["Veit, Rüdiger"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/veit_ruediger.html",
     "participation": [1, null]
   },
   {
-    "id":572,
+    "id":"DEL-572",
     "name":["Veith, Oswin"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/veith_oswin.html",
     "participation": [1, null]
   },
   {
-    "id":573,
+    "id":"DEL-573",
     "name":["Verlinden, Julia"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/verlinden_julia.html",
     "participation": [1, null]
   },
   {
-    "id":574,
+    "id":"DEL-574",
     "name":["Viesehon, Thomas"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/viesehon_thomas.html",
     "participation": [1, null]
   },
   {
-    "id":575,
+    "id":"DEL-575",
     "name":["Vietz, Michael"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/vietz_michael.html",
     "participation": [1, null]
   },
   {
-    "id":576,
+    "id":"DEL-576",
     "name":["Vogel, Volkmar"],
     "district":"Kleinsaara",
     "party":"CDU/CSU",
@@ -4081,126 +4081,126 @@
     "participation": [1, null]
   },
   {
-    "id":577,
+    "id":"DEL-577",
     "name":["Vogler, Kathrin"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/vogler_kathrin.html",
     "participation": [1, null]
   },
   {
-    "id":578,
+    "id":"DEL-578",
     "name":["Vogt, Ute"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/vogt_ute.html",
     "participation": [1, null]
   },
   {
-    "id":579,
+    "id":"DEL-579",
     "name":["Volmering, Sven"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/volmering_sven.html",
     "participation": [1, null]
   },
   {
-    "id":580,
+    "id":"DEL-580",
     "name":["Vöpel, Dirk"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/voepel_dirk.html",
     "participation": [1, null]
   },
   {
-    "id":581,
+    "id":"DEL-581",
     "name":["Voßbeck-Kayser, Christel"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/vossbeck-kayser_christel.html",
     "participation": [1, null]
   },
   {
-    "id":582,
+    "id":"DEL-582",
     "name":["Vries, Kees de"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/V/vries_kees_de.html",
     "participation": [1, null]
   },
   {
-    "id":583,
+    "id":"DEL-583",
     "name":["Wadephul, Johann"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wadephul_johann.html",
     "participation": [1, null]
   },
   {
-    "id":584,
+    "id":"DEL-584",
     "name":["Wagenknecht, Sahra"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wagenknecht_sahra.html",
     "participation": [1, null]
   },
   {
-    "id":585,
+    "id":"DEL-585",
     "name":["Wagner, Doris"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wagner_doris.html",
     "participation": [1, null]
   },
   {
-    "id":586,
+    "id":"DEL-586",
     "name":["Walter-Rosenheimer, Beate"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/walter-rosenheimer__beate.html",
     "participation": [1, null]
   },
   {
-    "id":587,
+    "id":"DEL-587",
     "name":["Wanderwitz, Marco"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wanderwitz_marco.html",
     "participation": [1, null]
   },
   {
-    "id":588,
+    "id":"DEL-588",
     "name":["Warken, Nina"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/warken_nina.html",
     "participation": [1, null]
   },
   {
-    "id":589,
+    "id":"DEL-589",
     "name":["Wawzyniak, Halina"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wawzyniak_halina.html",
     "participation": [1, null]
   },
   {
-    "id":590,
+    "id":"DEL-590",
     "name":["Weber, Gabi"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/weber_gabriele.html",
     "participation": [1, null]
   },
   {
-    "id":591,
+    "id":"DEL-591",
     "name":["Wegner, Kai"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wegner_kai.html",
     "participation": [1, null]
   },
   {
-    "id":592,
+    "id":"DEL-592",
     "name":["Weiler, Albert"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/weiler_albert.html",
     "participation": [1, null]
   },
   {
-    "id":593,
+    "id":"DEL-593",
     "name":["Weinberg, Harald"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/weinberg_harald.html",
     "participation": [1, null]
   },
   {
-    "id":594,
+    "id":"DEL-594",
     "name":["Weinberg, Marcus"],
     "district":"Hamburg",
     "party":"CDU/CSU",
@@ -4208,14 +4208,14 @@
     "participation": [1, null]
   },
   {
-    "id":595,
+    "id":"DEL-595",
     "name":["Weisgerber, Anja"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/weisgerber_anja.html",
     "participation": [1, null]
   },
   {
-    "id":596,
+    "id":"DEL-596",
     "name":["Weiß, Peter"],
     "district":"Emmendingen",
     "party":"CDU/CSU",
@@ -4223,7 +4223,7 @@
     "participation": [1, null]
   },
   {
-    "id":597,
+    "id":"DEL-597",
     "name":["Weiss, Sabine"],
     "district":"Wesel I",
     "party":"CDU/CSU",
@@ -4231,77 +4231,77 @@
     "participation": [1, null]
   },
   {
-    "id":598,
+    "id":"DEL-598",
     "name":["Wellenreuther, Ingo"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wellenreuther_ingo.html",
     "participation": [1, null]
   },
   {
-    "id":599,
+    "id":"DEL-599",
     "name":["Wellmann, Karl-Georg"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wellmann_karl.html",
     "participation": [1, null]
   },
   {
-    "id":600,
+    "id":"DEL-600",
     "name":["Wendt, Marian"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wendt_marian.html",
     "participation": [1, null]
   },
   {
-    "id":601,
+    "id":"DEL-601",
     "name":["Werner, Katrin"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/werner_katrin.html",
     "participation": [1, null]
   },
   {
-    "id":602,
+    "id":"DEL-602",
     "name":["Westphal, Bernd"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/westphal_bernd.html",
     "participation": [1, null]
   },
   {
-    "id":603,
+    "id":"DEL-603",
     "name":["Whittaker, Kai"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/whittaker_kai.html",
     "participation": [1, null]
   },
   {
-    "id":604,
+    "id":"DEL-604",
     "name":["Wichtel, Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wichtel_peter.html",
     "participation": [1, null]
   },
   {
-    "id":605,
+    "id":"DEL-605",
     "name":["Wicklein, Andrea"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wicklein_andrea.html",
     "participation": [1, null]
   },
   {
-    "id":606,
+    "id":"DEL-606",
     "name":["Widmann-Mauz, Annette"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/widmann_mauz_annette.html",
     "participation": [1, null]
   },
   {
-    "id":607,
+    "id":"DEL-607",
     "name":["Wiese, Dirk"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wiese_dirk.html",
     "participation": [1, null]
   },
   {
-    "id":608,
+    "id":"DEL-608",
     "name":["Wiese, Heinz"],
     "district":"Ehingen",
     "party":"CDU/CSU",
@@ -4309,42 +4309,42 @@
     "participation": [1, null]
   },
   {
-    "id":609,
+    "id":"DEL-609",
     "name":["Willsch, Klaus-Peter"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/willsch_klaus_peter.html",
     "participation": [1, null]
   },
   {
-    "id":610,
+    "id":"DEL-610",
     "name":["Wilms, Valerie"],
     "party":"Bündnis 90/Die Grünen",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wilms_valerie.html",
     "participation": [1, null]
   },
   {
-    "id":611,
+    "id":"DEL-611",
     "name":["Winkelmeier-Becker, Elisabeth"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/winkelmeier_becker_elisabeth.html",
     "participation": [1, null]
   },
   {
-    "id":612,
+    "id":"DEL-612",
     "name":["Wittke, Oliver"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wittke_oliver.html",
     "participation": [1, null]
   },
   {
-    "id":613,
+    "id":"DEL-613",
     "name":["Wöhrl, Dagmar"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/woehrl_dagmar.html",
     "participation": [1, null]
   },
   {
-    "id":614,
+    "id":"DEL-614",
     "name":["Wolff, Waltraud"],
     "district":"Wolmirstedt",
     "party":"SPD",
@@ -4352,98 +4352,98 @@
     "participation": [1, null]
   },
   {
-    "id":615,
+    "id":"DEL-615",
     "name":["Wöllert, Birgit"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/woellert_brigit.html",
     "participation": [1, null]
   },
   {
-    "id":616,
+    "id":"DEL-616",
     "name":["Woltmann, Barbara"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/woltmann_barbara.html",
     "participation": [1, null]
   },
   {
-    "id":617,
+    "id":"DEL-617",
     "name":["Wunderlich, Jörn"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/W/wunderlich_joern.html",
     "participation": [1, null]
   },
   {
-    "id":618,
+    "id":"DEL-618",
     "name":["Yüksel, Gülistan"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Y/yueksel_guelistan.html",
     "participation": [1, null]
   },
   {
-    "id":619,
+    "id":"DEL-619",
     "name":["Zdebel, Hubertus"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zdebel_hubertus.html",
     "participation": [1, null]
   },
   {
-    "id":620,
+    "id":"DEL-620",
     "name":["Zech, Tobias"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zech_tobias.html",
     "participation": [1, null]
   },
   {
-    "id":621,
+    "id":"DEL-621",
     "name":["Zertik, Heinrich"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zertik_heinrich.html",
     "participation": [1, null]
   },
   {
-    "id":622,
+    "id":"DEL-622",
     "name":["Zeulner, Emmi"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zeulner_emmi.html",
     "participation": [1, null]
   },
   {
-    "id":623,
+    "id":"DEL-623",
     "name":["Ziegler, Dagmar"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/ziegler_dagmar.html",
     "participation": [1, null]
   },
   {
-    "id":624,
+    "id":"DEL-624",
     "name":["Zierke, Stefan"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zierke_stefan.html",
     "participation": [1, null]
   },
   {
-    "id":625,
+    "id":"DEL-625",
     "name":["Zimmer, Matthias"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zimmer_matthias.html",
     "participation": [1, null]
   },
   {
-    "id":626,
+    "id":"DEL-626",
     "name":["Zimmermann, Jens"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zimmermann_jens.html",
     "participation": [1, null]
   },
   {
-    "id":627,
+    "id":"DEL-627",
     "name":["Zimmermann, Pia"],
     "party":"Die Linke",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zimmermann_pia.html",
     "participation": [1, null]
   },
   {
-    "id":628,
+    "id":"DEL-628",
     "name":["Zimmermann, Sabine"],
     "district":"Zwickau",
     "party":"Die Linke",
@@ -4451,21 +4451,21 @@
     "participation": [1, null]
   },
   {
-    "id":629,
+    "id":"DEL-629",
     "name":["Zöllmer, Manfred"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zoellmer_manfred.html",
     "participation": [1, null]
   },
   {
-    "id":630,
+    "id":"DEL-630",
     "name":["Zollner, Gudrun"],
     "party":"CDU/CSU",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zollner_gudrun.html",
     "participation": [1, null]
   },
   {
-    "id":631,
+    "id":"DEL-631",
     "name":["Zypries, Brigitte"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zypries_brigitte.html"
