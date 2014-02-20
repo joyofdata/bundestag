@@ -666,7 +666,7 @@
     "name":["Edathy, Sebastian"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/E/edathy_sebastian.html",
-    "participation": [1, null]
+    "participation": [1, 12]
   },
   {
     "id":"DEL-95",
@@ -4469,5 +4469,19 @@
     "name":["Zypries, Brigitte"],
     "party":"SPD",
     "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/Z/zypries_brigitte.html"
+  },
+  {
+    "id":"DEL-632",
+    "name":["Groneberg, Gabriele"],
+    "party":"SPD",
+    "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/G/groneberg_gabriele.html",
+    "participation": [13, null]
+  },
+  {
+    "id":"DEL-633",
+    "name":["Strengmann-Kuhn, Wolfgang"],
+    "party":"Bündnis 90/Die Grünen",
+    "link":"http://bundestag.de/bundestag/abgeordnete18/biografien/S/strengmann_kuhn_wolfgang.html",
+    "participation": [10, null]
   }
 ]
