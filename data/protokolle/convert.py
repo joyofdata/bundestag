@@ -33,8 +33,20 @@ R = 0 # num of lines / rows
 C = 0 # num of columns / chars in longest row
 
 for line in f:
+  # some lines are clearly isolated but can mess with layout
+  # detection if they are to close to following blocks. This
+  # is handled by framing the line with two empty lines.
+  frameThisLine = False
   line = line.rstrip('\n')
-  
+ 
+  # too long names mess with quadro-columned lists
+  line = re.compile('Vizepräsident Johannes Singhammer').sub("V.P. Johannes Singhammer         ",line)
+  line = re.compile('Vizepräsidentin Edelgard Bulmahn').sub("V.P. Edelgard Bulmahn           ",line)
+
+
+  if re.compile('^ {10,}Namensverzeichnis').search(line):
+    frameThisLine = True
+
   # \x0c aka F(eed)F(orward) indicates a new page in case of
   # PDF to text conversion using xpdf.
   # In case of Bundestag protocols the first line of a page 
@@ -42,14 +54,18 @@ for line in f:
   # or current page's second. To prevent confusion I just safety
   # wrap it with blank lines.
   if re.compile("\x0c").search(line):
+    line = re.compile("\x0c").sub("",line)
+    frameThisLine = True
+  
+  if not frameThisLine:
+    lines.append(line)
+  else:
     lines.append("")
     lines.append("")
-    lines.append(re.compile("\x0c").sub("",line))
+    lines.append(line)
     lines.append("")
     lines.append("")
     R = R + 4
-  else:
-    lines.append(line)
 
   if len(line) > C:
     C = len(line)
