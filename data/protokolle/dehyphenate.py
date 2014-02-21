@@ -18,13 +18,13 @@ fileName = os.path.basename(srcFile)
 reunionFile = os.path.dirname(srcFile) + "/" + re.compile("long").sub("reunited", fileName)
 
 
-text = codecs.open(fileName,"r","utf-8").read()
+text = codecs.open(srcFile,"r","utf-8").read()
 
 text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-\\r\\n([a-záàéèßäöü]+)").sub("\\1\\2\\r\\n",text)
-text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-\\r\\n([A-ZÄÖÜ]+)").sub("\\1-\\2\\r\\n",text)
+text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-\\r\\n([A-ZÄÖÜ][a-záàéèßäöü]+)").sub("\\1-\\2\\r\\n",text)
 
 text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-( +\([CD]\))\\r\\n([a-záàéèßäöü]+)").sub("\\1\\3\\2\\r\\n",text)
-text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-( +\([CD]\))\\r\\n([A-ZÄÖÜ]+)").sub("\\1-\\3\\2\\r\\n",text)
+text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-( +\([CD]\))\\r\\n([A-ZÄÖÜ][a-záàéèßäöü]+)").sub("\\1-\\3\\2\\r\\n",text)
 
 f = open(reunionFile, encoding="utf-8", mode="w")
 f.write(text)
