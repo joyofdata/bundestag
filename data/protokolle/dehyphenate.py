@@ -18,7 +18,7 @@ fileName = os.path.basename(srcFile)
 reunionFile = os.path.dirname(srcFile) + "/" + re.compile("long").sub("reunited", fileName)
 
 
-text = codecs.open("BT18/txt/18001.long.txt","r","utf-8").read()
+text = codecs.open(fileName,"r","utf-8").read()
 
 text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-\\r\\n([a-záàéèßäöü]+)").sub("\\1\\2\\r\\n",text)
 text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-\\r\\n([A-ZÄÖÜ]+)").sub("\\1-\\2\\r\\n",text)
