@@ -21,15 +21,15 @@ reunionFile = os.path.dirname(srcFile) + "/" + re.compile("long").sub("reunited"
 text = codecs.open(srcFile,"r","utf-8").read()
 
 # second part all uncapitalized > simple word
-text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-\\r\\n([a-záàéèßäöü]+)").sub("\\1\\2\\r\\n",text)
+text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-\\r?\\n([a-záàéèßäöü]+)").sub("\\1\\2\\n",text)
 # all characters capitalized > simple word
-text = re.compile("([A-ZÄÖÜ]+)-\\r\\n([A-ZÄÖÜ]+)").sub("\\1\\2\\r\\n",text)
+text = re.compile(u"([A-ZÄÖÜ]+)-\\r?\\n([A-ZÄÖÜ]+)").sub("\\1\\2\\n",text)
 # first and second part start capitalized then turn uncapitalized > composite - keep hyphens
-text = re.compile("([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)-\\r\\n([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)").sub("\\1-\\2\\r\\n",text)
+text = re.compile(u"([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)-\\r?\\n([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)").sub("\\1-\\2\\n",text)
 
-text = re.compile("([a-zA-ZáàéèßÄÖÜäöü]+)-( +\([CD]\))\\r\\n([a-záàéèßäöü]+)").sub("\\1\\3\\2\\r\\n",text)
-text = re.compile("([A-ZÄÖÜ]+)-( +\([CD]\))\\r\\n([A-ZÄÖÜ]+)").sub("\\1\\3\\2\\r\\n",text)
-text = re.compile("([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)-( +\([CD]\))\\r\\n([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)").sub("\\1-\\3\\2\\r\\n",text)
+text = re.compile(u"([a-zA-ZáàéèßÄÖÜäöü]+)-( +\([CD]\))\\r?\\n([a-záàéèßäöü]+)").sub("\\1\\3\\2\\n",text)
+text = re.compile(u"([A-ZÄÖÜ]+)-( +\([CD]\))\\r?\\n([A-ZÄÖÜ]+)").sub("\\1\\3\\2\\n",text)
+text = re.compile(u"([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)-( +\([CD]\))\\r?\\n([A-ZÄÖÜ][A-ZÄÖÜa-záàéèßäöü]+)").sub("\\1-\\3\\2\\n",text)
 
 f = open(reunionFile, encoding="utf-8", mode="w")
 f.write(text)
