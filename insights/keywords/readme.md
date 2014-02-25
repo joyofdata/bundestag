@@ -6,10 +6,10 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
-[18-1](bt-18-1.md) | Vizepräsidentinnen | Jastimmen | Neinstimmen
+[18-1](bt-18-1.md) | Vizepräsidentinnen | Jastimmen | Alterspräsident
 [18-2](bt-18-2.md) | Timoschenko | PKGr| Kroatien 
 [18-3](bt-18-3.md) | UNAMID | Darfur | HBW
-[18-4](bt-18-4.md) | Mandela | Ausstrahlung | überreicht
+[18-4](bt-18-4.md) | schwöre | Mandela | helfe
 [18-5](bt-18-5.md) | Ertüchtigungsinitiative | Lissabon-Vertrag | Sozialstaatlichkeit
 [18-6](bt-18-6.md) | Lebenspartnerschaft | Bundesbeauftragte | Morlok
 [18-7](bt-18-7.md) | StAG | Südbahn | Fehleinschätzungen
@@ -20,7 +20,7 @@ session | term #1 | term #2 | term #3
 [18-12](bt-18-12.md) | Bundesverkehrswegeplan | Verkehrssicherheit | Pedelecs
 [18-13](bt-18-13.md) | Ortskräfte | Goethe-Institut | Gramm
 [18-14](bt-18-14.md) | ERP-Sondervermögen | Trasse | LNG
-[18-15](bt-18-15.md) | Insolvenzverfahren | Insolvenzrecht | Konzerninsolvenzen
+[18-15](bt-18-15.md) | BAföG | Insolvenzverfahren | Insolvenzrecht
 [18-16](bt-18-16.md) | Booz | Castor | SEWD
 [18-17](bt-18-17.md) | UPD | Patientenberatung | Gemüse
 [18-18](bt-18-18.md) | PEPP | Vergütungssystem | Entgeltsystem
