@@ -121,8 +121,11 @@ generate_markdown_for_protocol <- function(TFIDF, words, session, bt=18, top=20,
 }
 
 get_term_freq_aug <- function(FT) {
+  # num of protocols covered in FT
+  nc <- ncol(FT)-1
+  
   d_max <- apply(FT[,-1],2,max)
-  FT[,-1] <- 0.5 + 0.5 * (FT[,-1]/matrix(d_max,ncol=(ncol(FT)-1),nrow=nrow(FT),byrow=TRUE))
+  FT[,-1] <- 1/nc + (FT[,-1]/matrix(d_max,ncol=nc,nrow=nrow(FT),byrow=TRUE))
   return(FT)
 }
 
