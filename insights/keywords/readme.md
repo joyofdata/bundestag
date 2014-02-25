@@ -2,6 +2,8 @@
 
 ([tf-idf with augmented frequency](http://en.wikipedia.org/wiki/Tf–idf) - article on joyofdata.de with details is about to follow)
 
+Choose a session to see the Top-20 keywords and a selection of their context.
+
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
 [18-1](bt-18-1.md) | Vizepräsidentinnen | Jastimmen | Neinstimmen
