@@ -1,6 +1,6 @@
 ###Keywords in Bundestag protocols ranked by tf-idf-statistic
 
-([tf-idf with augmented frequency](http://en.wikipedia.org/wiki/Tf–idf) - article on joyofdata.de with details is about to follow)
+([tf-idf](http://en.wikipedia.org/wiki/Tf–idf) - article on joyofdata.de with details is about to follow)
 
 Choose a session to see the Top-20 keywords and a selection of their context.
 
