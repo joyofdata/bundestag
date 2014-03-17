@@ -24,3 +24,6 @@ session | term #1 | term #2 | term #3
 [18-16](bt-18-16.md) | Booz | Castor | SEWD
 [18-17](bt-18-17.md) | UPD | Patientenberatung | Gemüse
 [18-18](bt-18-18.md) | PEPP | Vergütungssystem | Entgeltsystem
+[18-19](bt-18-19.md) | Schiedsgerichtsverfahren | Schiedsverfahren | Kot
+[18-20](bt-18-20.md) | CeBIT | Sozialversicherungsabkommen | Kontaktgruppe
+[18-21](bt-18-21.md) | Zeitsouveränität | Frauentag | Parlamentsbeteiligungsgesetzes
