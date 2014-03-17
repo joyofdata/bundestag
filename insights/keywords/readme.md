@@ -4,6 +4,8 @@
 
 Choose a session to see the Top-20 keywords and a selection of their context.
 
+<a href='#jump-to-top'>jump to last entry</a> 
+
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
 [18-1](bt-18-1.md) | Vizepräsidentinnen | Jastimmen | Alterspräsident
@@ -27,3 +29,5 @@ session | term #1 | term #2 | term #3
 [18-19](bt-18-19.md) | Schiedsgerichtsverfahren | Schiedsverfahren | Kot
 [18-20](bt-18-20.md) | CeBIT | Sozialversicherungsabkommen | Kontaktgruppe
 [18-21](bt-18-21.md) | Zeitsouveränität | Frauentag | Parlamentsbeteiligungsgesetzes
+
+<a href='#jump-to-last-entry'>jump to top</a> 
