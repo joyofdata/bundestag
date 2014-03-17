@@ -67,6 +67,8 @@ generate_markdown_for_protocol <- function(TFIDF, words, session, bt=18, top=20,
   if(colnames(TFIDF[["tfidf"]])[2] != "n001") {
     error("1st column is expected to contain words and sequentially from second on the respective statitics for the different sessions named 'n001','n002' etc.")
   }
+  
+  # session+1 because first column contains the words
   tfidf <- TFIDF[["tfidf"]][,c(1,session+1)]
   ft <- TFIDF[["ft"]][,c(1,session+1)]
   tf <- TFIDF[["tf"]][,c(1,session+1)]
@@ -121,7 +123,7 @@ generate_markdown_for_protocol <- function(TFIDF, words, session, bt=18, top=20,
 }
 
 get_term_freq_aug <- function(FT) {
-  # num of protocols covered in FT
+  # num of protocols covered in FT; first column keeps the words
   nc <- ncol(FT)-1
   
   d_max <- apply(FT[,-1],2,max)
@@ -144,7 +146,7 @@ calc_tfidf <- function(F,lower=FALSE) {
   return(list("tfidf"=tfidf,"ft"=FT,"tf"=tf,"idf"=idf))
 }
 
-generate_file_names_for_protocols <- function(I=1:1, type="pure", path="/media/raffael/Volume/git-repos/bundestag/data/protokolle/BT18/txt/") {
+generate_file_names_for_protocols <- function(I=1:1, type="pure", path) {
   F <- c()
     
   for(i in I) {
