@@ -23,4 +23,4 @@ create_markdown_file_for_session <- function(s, path) {
     file=sprintf("%s/bt-18-%d.md",path,s))
 }
 
-create_markdown_file_for_session(max_doc_id, paste(root_path,"/insights/keywords",sep="")
+create_markdown_file_for_session(max_doc_id, paste(root_path,"/insights/keywords",sep=""))
