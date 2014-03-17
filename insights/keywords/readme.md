@@ -4,7 +4,7 @@
 
 Choose a session to see the Top-20 keywords and a selection of their context.
 
-<a href='#jump-to-top'>jump to last entry</a> 
+[<a href='#bottom' name="top">jump to last entry</a>]
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
@@ -30,4 +30,4 @@ session | term #1 | term #2 | term #3
 [18-20](bt-18-20.md) | CeBIT | Sozialversicherungsabkommen | Kontaktgruppe
 [18-21](bt-18-21.md) | Zeitsouveränität | Frauentag | Parlamentsbeteiligungsgesetzes
 
-<a href='#jump-to-last-entry'>jump to top</a> 
+[<a href='#top' name="bottom">jump to top</a>]
