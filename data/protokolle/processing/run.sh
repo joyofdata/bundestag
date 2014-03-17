@@ -26,20 +26,20 @@ n=$lowest
 while wget -q --spider $docUrl$n.pdf
 do
   # download protocol and convert to txt
-  #wget $docUrl$n.pdf -P $pathPdf
-  #pdftotext $pathPdf/$n.pdf $pathTxt/$n.txt
+  wget $docUrl$n.pdf -P $pathPdf
+  pdftotext $pathPdf/$n.pdf $pathTxt/$n.txt
 
   # process the text file 
   # (delayout.py is computationally ineffecient and very slow)
-  #python3 $pathScripts/text/delayout.py $pathTxt/$n.txt
-  #python3 $pathScripts/text/dehyphenate.py $pathTxt/$n.long.txt
-  #python3 $pathScripts/text/purify.py $pathTxt/$n.reunited.txt
+  python3 $pathScripts/text/delayout.py $pathTxt/$n.txt
+  python3 $pathScripts/text/dehyphenate.py $pathTxt/$n.long.txt
+  python3 $pathScripts/text/purify.py $pathTxt/$n.reunited.txt
 
   # extracts session number from protocol number
   m=$(echo $n | grep -oP "[1-9]{1}[0-9]{0,2}$")
   
   # the R script calculates the tf-idf ranking
-  #Rscript $pathScripts/keywords/run-tf-idf-evaluation.R $m
+  Rscript $pathScripts/keywords/run-tf-idf-evaluation.R $m
 
   # version and publish
   git pull origin master
