@@ -31,5 +31,12 @@ session | term #1 | term #2 | term #3
 [18-21](bt-18-21.md) | Zeitsouveränität | Frauentag | Parlamentsbeteiligungsgesetzes
 [18-22](bt-18-22.md) | schwerbehinderter | Dauergrünland | Erfüllungsaufwand
 [18-23](bt-18-23.md) | Hebammen | Geburtshilfe | Verpackungsverordnung
+[18-24](bt-18-24.md) | pharmazeutischen | EUAfrika-Gipfel | Aufwandsentschädigungen
+[18-25](bt-18-25.md) | Anerkennungsgesetz | Ausreisesperre | Familienkassen
+[18-26](bt-18-26.md) | Milchviehhaltung | Weide | Nachtruhe
+[18-27](bt-18-27.md) | Ruanda | Pflegezusatzversicherung | Teilhabebericht
+[18-28](bt-18-28.md) | Ökolandbau | FES | Juliusturm
+[18-29](bt-18-29.md) | Verteidigungshaushalt | Filmförderfonds | Sonderinitiativen
+[18-30](bt-18-30.md) | Abfallstoffe | radioaktiver | Standortauswahlgesetzes
 
 [<a href='#top' name="bottom">jump to top</a>]
