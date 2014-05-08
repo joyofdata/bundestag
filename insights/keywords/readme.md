@@ -39,5 +39,6 @@ session | term #1 | term #2 | term #3
 [18-29](bt-18-29.md) | Verteidigungshaushalt | Filmförderfonds | Sonderinitiativen
 [18-30](bt-18-30.md) | Abfallstoffe | radioaktiver | Standortauswahlgesetzes
 [18-31](bt-18-31.md) | Verkehrshaushalt | Investitionslinie | Schleuse
+[18-32](bt-18-32.md) | (Wiener) Dokument(s) | Slawiansk | Separatisten
 
 [<a href='#top' name="bottom">jump to top</a>]
