@@ -41,5 +41,6 @@ session | term #1 | term #2 | term #3
 [18-31](bt-18-31.md) | Verkehrshaushalt | Investitionslinie | Schleuse
 [18-32](bt-18-32.md) | (Wiener) Dokument(s) | Slawiansk | Separatisten
 [18-33](bt-18-33.md) | Rüstungsexportentscheidungen | Zwangsverrentung | Bundesmeldegesetz
+[18-34](bt-18-34.md) | Schuman | Zahlungsmoral | Höchstfrist
 
 [<a href='#top' name="bottom">jump to top</a>]
