@@ -42,5 +42,8 @@ session | term #1 | term #2 | term #3
 [18-32](bt-18-32.md) | (Wiener) Dokument(s) | Slawiansk | Separatisten
 [18-33](bt-18-33.md) | Rüstungsexportentscheidungen | Zwangsverrentung | Bundesmeldegesetz
 [18-34](bt-18-34.md) | Schuman | Zahlungsmoral | Höchstfrist
+[18-35](bt-18-35.md) | Boko | Haram | Rückbaus
+[18-36](bt-18-36.md) | Ausschussdienstes | Petitionsrecht | Postuniversaldienst
+[18-37](bt-18-37.md) | Flexirente | Privilegierung | zweijährigen (Bezug von Arbeitslosengeld)
 
 [<a href='#top' name="bottom">jump to top</a>]
