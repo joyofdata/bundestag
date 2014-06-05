@@ -45,5 +45,6 @@ session | term #1 | term #2 | term #3
 [18-35](bt-18-35.md) | Boko | Haram | Rückbaus
 [18-36](bt-18-36.md) | Ausschussdienstes | Petitionsrecht | Postuniversaldienst
 [18-37](bt-18-37.md) | Flexirente | Privilegierung | zweijährigen (Bezug von Arbeitslosengeld)
+[18-37](bt-18-38.md) | Partnerschaftsmonaten | SP (SIG Sauer SP2022) | Partnerschaftmonate
 
 [<a href='#top' name="bottom">jump to top</a>]
