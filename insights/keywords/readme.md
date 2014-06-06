@@ -21,11 +21,11 @@ session | term #1 | term #2 | term #3
 [18-11](bt-18-11.md) | Verbraucherpolitik | Rechtspolitik | Tierhaltung
 [18-12](bt-18-12.md) | Bundesverkehrswegeplan | Verkehrssicherheit | Pedelecs
 [18-13](bt-18-13.md) | Ortskräfte | Goethe-Institut | Gramm
-[18-14](bt-18-14.md) | ERP-Sondervermögen | Trasse | LNG
+[18-14](bt-18-14.md) | ERP-Sondervermögen | Trasse | LNG (Levonorgestrel)
 [18-15](bt-18-15.md) | BAföG | Insolvenzverfahren | Insolvenzrecht
-[18-16](bt-18-16.md) | Booz | Castor | SEWD
-[18-17](bt-18-17.md) | UPD | Patientenberatung | Gemüse
-[18-18](bt-18-18.md) | PEPP | Vergütungssystem | Entgeltsystem
+[18-16](bt-18-16.md) | Booz (Allen Hamilton) | Castor | SEWD (sonstige Einwirkungen Dritter)
+[18-17](bt-18-17.md) | UPD (Unabh. Patientenberatung Dtl.) | Patientenberatung | Gemüse
+[18-18](bt-18-18.md) | PEPP (Pauschalisierendes Entgeltsystem für Psychiatrie und Psychosomatik)| Vergütungssystem | Entgeltsystem
 [18-19](bt-18-19.md) | Schiedsgerichtsverfahren | Schiedsverfahren | Kot
 [18-20](bt-18-20.md) | CeBIT | Sozialversicherungsabkommen | Kontaktgruppe
 [18-21](bt-18-21.md) | Zeitsouveränität | Frauentag | Parlamentsbeteiligungsgesetzes
@@ -35,7 +35,7 @@ session | term #1 | term #2 | term #3
 [18-25](bt-18-25.md) | Anerkennungsgesetz | Ausreisesperre | Familienkassen
 [18-26](bt-18-26.md) | Milchviehhaltung | Weide | Nachtruhe
 [18-27](bt-18-27.md) | Ruanda | Pflegezusatzversicherung | Teilhabebericht
-[18-28](bt-18-28.md) | Ökolandbau | FES | Juliusturm
+[18-28](bt-18-28.md) | Ökolandbau | FES (Forschung und Entwicklung von Sportgeräten) | Juliusturm
 [18-29](bt-18-29.md) | Verteidigungshaushalt | Filmförderfonds | Sonderinitiativen
 [18-30](bt-18-30.md) | Abfallstoffe | radioaktiver | Standortauswahlgesetzes
 [18-31](bt-18-31.md) | Verkehrshaushalt | Investitionslinie | Schleuse
