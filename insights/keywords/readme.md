@@ -10,11 +10,11 @@ session | term #1 | term #2 | term #3
 --- | --- | --- | ---
 [18-1](bt-18-1.md) | Vizepräsidentinnen | Jastimmen | Alterspräsident
 [18-2](bt-18-2.md) | Timoschenko | PKGr (Parlamentarisches Kontrollgremium)| Kroatien 
-[18-3](bt-18-3.md) | UNAMID | Darfur | HBW
+[18-3](bt-18-3.md) | UNAMID (United Nations-African Union Hybrid Mission in Darfur) | Darfur | HBW (Hauptstelle für Befragungswesen)
 [18-4](bt-18-4.md) | schwöre | Mandela | helfe
 [18-5](bt-18-5.md) | Ertüchtigungsinitiative | Lissabon-Vertrag | Sozialstaatlichkeit
 [18-6](bt-18-6.md) | Lebenspartnerschaft | Bundesbeauftragte | Morlok
-[18-7](bt-18-7.md) | StAG | Südbahn | Fehleinschätzungen
+[18-7](bt-18-7.md) | StAG (Staatsangehörigkeitsgesetz) | Südbahn | Fehleinschätzungen
 [18-8](bt-18-8.md) | PISA-Studie | PISA | Königshaus
 [18-9](bt-18-9.md) | Seenotrettung | Asylantrag | Asylsuchenden
 [18-10](bt-18-10.md) | Abschuss | Luftraum | Künstlersozialkasse
