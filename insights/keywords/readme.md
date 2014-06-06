@@ -9,7 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
 [18-1](bt-18-1.md) | Vizepräsidentinnen | Jastimmen | Alterspräsident
-[18-2](bt-18-2.md) | Timoschenko | PKGr| Kroatien 
+[18-2](bt-18-2.md) | Timoschenko | PKGr (Parlamentarisches Kontrollgremium)| Kroatien 
 [18-3](bt-18-3.md) | UNAMID | Darfur | HBW
 [18-4](bt-18-4.md) | schwöre | Mandela | helfe
 [18-5](bt-18-5.md) | Ertüchtigungsinitiative | Lissabon-Vertrag | Sozialstaatlichkeit
@@ -46,5 +46,6 @@ session | term #1 | term #2 | term #3
 [18-36](bt-18-36.md) | Ausschussdienstes | Petitionsrecht | Postuniversaldienst
 [18-37](bt-18-37.md) | Flexirente | Privilegierung | zweijährigen (Bezug von Arbeitslosengeld)
 [18-38](bt-18-38.md) | Partnerschaftsmonaten | SP (SIG Sauer SP2022) | Partnerschaftmonate
+[18-39](bt-18-39.md) | ATD (Antiterrordatei) | KBV (Kassenärztliche Bundesvereinigung) | KomV (Kommisionsvorschlag)
 
 [<a href='#top' name="bottom">jump to top</a>]
