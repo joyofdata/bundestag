@@ -49,5 +49,6 @@ session | term #1 | term #2 | term #3
 [18-37](bt-18-37.md) | Flexirente | Privilegierung | zweijährigen (Bezug von Arbeitslosengeld)
 [18-38](bt-18-38.md) | Partnerschaftsmonaten | SP (SIG Sauer SP2022) | Partnerschaftmonate
 [18-39](bt-18-39.md) | ATD (Antiterrordatei) | KBV (Kassenärztliche Bundesvereinigung) | KomV (Kommisionsvorschlag)
+[18-40](bt-18-40.md) | Wissenschaftszeitvertragsgesetzes | UNIFIL (United Nations Interim Force in Lebanon) | MNLA (National Movement for the Liberation of Azawad)
 
 [<a href='#top' name="bottom">jump to top</a>]
