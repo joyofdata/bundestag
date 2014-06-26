@@ -51,6 +51,7 @@ session | term #1 | term #2 | term #3
 [18-39](bt-18-39.md) | ATD (Antiterrordatei) | KBV (Kassenärztliche Bundesvereinigung) | KomV (Kommisionsvorschlag)
 [18-40](bt-18-40.md) | Wissenschaftszeitvertragsgesetzes | UNIFIL (United Nations Interim Force in Lebanon) | MNLA (National Movement for the Liberation of Azawad)
 [18-41](bt-18-41.md) | Litauens | Litauer | Garantiezins
+[18-42](bt-18-42.md) | Wachstumspaktes | Transall-Maschinen | achselzuckend
 
 
 [<a href='#top' name="bottom">jump to top</a>]
