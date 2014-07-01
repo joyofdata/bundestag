@@ -53,6 +53,7 @@ session | term #1 | term #2 | term #3
 [18-41](bt-18-41.md) | Litauens | Litauer | Garantiezins
 [18-42](bt-18-42.md) | Wachstumspaktes | Transall-Maschinen | achselzuckend
 [18-43](bt-18-43.md) | Staatsquote | Zukunftsprogramm | Defizitkriterien
+[18-44](bt-18-44.md) | Energiewirtschaftsrecht | Schall | Oststrecke
 
 
 [<a href='#top' name="bottom">jump to top</a>]
