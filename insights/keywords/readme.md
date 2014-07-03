@@ -54,6 +54,7 @@ session | term #1 | term #2 | term #3
 [18-42](bt-18-42.md) | Wachstumspaktes | Transall-Maschinen | achselzuckend
 [18-43](bt-18-43.md) | Staatsquote | Zukunftsprogramm | Defizitkriterien
 [18-44](bt-18-44.md) | Energiewirtschaftsrecht | Schall | Oststrecke
+[18-45](bt-18-45.md) | TiSA | Dienstleistungsabkommen | Dienstleistungsabkommens
 
 
 [<a href='#top' name="bottom">jump to top</a>]
