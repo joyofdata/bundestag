@@ -55,6 +55,7 @@ session | term #1 | term #2 | term #3
 [18-43](bt-18-43.md) | Staatsquote | Zukunftsprogramm | Defizitkriterien
 [18-44](bt-18-44.md) | Energiewirtschaftsrecht | Schall | Oststrecke
 [18-45](bt-18-45.md) | TiSA (Trade in Services Agreement) | Dienstleistungsabkommen | Dienstleistungsabkommens
+[18-46](bt-18-46.md) | Liebknecht | Ratings | Arbeitsplatzverlusten
 
 
 [<a href='#top' name="bottom">jump to top</a>]
