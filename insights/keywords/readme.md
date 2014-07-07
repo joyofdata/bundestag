@@ -57,6 +57,7 @@ session | term #1 | term #2 | term #3
 [18-44](bt-18-44.md) | Energiewirtschaftsrecht | Schall | Oststrecke
 [18-45](bt-18-45.md) | TiSA (Trade in Services Agreement) | Dienstleistungsabkommen | Dienstleistungsabkommens
 [18-46](bt-18-46.md) | Liebknecht | Ratings | Arbeitsplatzverlusten
+[18-47](bt-18-47.md) | [BStU](http://www.bstu.bund.de) | Staatssicherheitsdienstes | Stasi-Unterlagen-Gesetz
 
 
 [<a href='#top' name="bottom">jump to top</a>]
