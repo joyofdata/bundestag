@@ -60,6 +60,7 @@ session | term #1 | term #2 | term #3
 [18-47](bt-18-47.md) | [BStU](http://www.bstu.bund.de) | Staatssicherheitsdienstes | Stasi-Unterlagen-Gesetz
 [18-48](bt-18-48.md) | IS | ISIS | Jesiden
 [18-49](bt-18-49.md) | Syndikusanwälte | Scharia-Polizei | DPMA (Deutsches Patent- und Markenamt)
+[18-50](bt-18-50.md) | Komorowski | ängstlich | Entstaatlichung
 
 
 [<a href='#top' name="bottom">jump to top</a>]
