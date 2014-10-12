@@ -11,6 +11,8 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-56](bt-18-56.md) | [BMBU](http://www.bmub.bund.de/) | Kobane | Irlands
+[18-55](bt-18-55.md) | Sammelklagen | Anerkennungsgesetz | Gruppenverfahren
 [18-54](bt-18-54.md) | Parteikonvents | SPD-Konvents | Entfristung
 [18-53](bt-18-53.md) | Jülich | [AVR-Brennelemente](http://en.wikipedia.org/wiki/AVR_reactor) | Seuche
 [18-52](bt-18-52.md) | grundsolide | Straßenbauplan | grundsoliden
