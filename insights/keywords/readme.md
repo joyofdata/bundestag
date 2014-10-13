@@ -1,9 +1,7 @@
-[joyofdata.de](http://www.joyofdata.de)
+[joyofdata.de](http://www.joyofdata.de/blog/tf-idf-statistic-keyword-extraction/)
 ---
 stay tuned: new TOP keywords are tweeted - [@joyofdata](https://twitter.com/joyofdata)
-###Keywords in Bundestag protocols ranked by tf-idf-statistic
-
-([tf-idf](http://en.wikipedia.org/wiki/Tf–idf) - article on joyofdata.de with details is about to follow)
+###Keywords in Bundestag protocols ranked by [tf-idf](http://en.wikipedia.org/wiki/Tf–idf)-statistic
 
 Choose a session to see the Top-20 keywords and a selection of their context.
 
