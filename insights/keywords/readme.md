@@ -9,6 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-59](bt-18-59.md) | [THTR](http://de.wikipedia.org/wiki/Kernkraftwerk_THTR-300) | Pflegezeit | Bitcoins
 [18-58](bt-18-58.md) | Todesstrafe | Weltmädchentag | Malala
 [18-57](bt-18-57.md) | [PEPP](http://de.wikipedia.org/wiki/Pauschalierendes_Entgeltsystem_Psychiatrie_und_Psychosomatik) | Biokraftstoffe | Treibhausgasquote
 [18-56](bt-18-56.md) | [BMBU](http://www.bmub.bund.de/) | Kobane | Irlands
