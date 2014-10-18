@@ -9,6 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-60](bt-18-60.md) | [EEF](http://en.wikipedia.org/wiki/European_Development_Fund) | [BfDI](http://de.wikipedia.org/wiki/Bundesbeauftragter_f%C3%BCr_den_Datenschutz_und_die_Informationsfreiheit) | Rahmenfrist
 [18-59](bt-18-59.md) | [THTR](http://de.wikipedia.org/wiki/Kernkraftwerk_THTR-300) | Pflegezeit | Bitcoins
 [18-58](bt-18-58.md) | Todesstrafe | Weltmädchentag | Malala
 [18-57](bt-18-57.md) | [PEPP](http://de.wikipedia.org/wiki/Pauschalierendes_Entgeltsystem_Psychiatrie_und_Psychosomatik) | Biokraftstoffe | Treibhausgasquote
