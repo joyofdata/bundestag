@@ -5,7 +5,7 @@ stay tuned: new TOP keywords are tweeted - [@joyofdata](https://twitter.com/joyo
 
 Choose a session to see the Top-20 keywords and a selection of their context.
 
-[<a href='#bottom' name="top">jump to last entry</a>]
+[<a href='#bottom' name="top">jump to first entry</a>]
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
