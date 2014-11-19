@@ -9,6 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-67](bt-18-67.md) | Netzentgelte | Opferrente | Familienpflegezeit
 [18-66](bt-18-66.md) | Suizid | Sterbehilfe | Selbsttötung
 [18-65](bt-18-65.md) | (Tax) Rulings |  [GnuPG](http://en.wikipedia.org/wiki/GNU_Privacy_Guard) | Steuermodelle
 [18-64](bt-18-64.md) | Hinweisgebern | Hinweisgeber | [Gerst](http://en.wikipedia.org/wiki/Alexander_Gerst)
