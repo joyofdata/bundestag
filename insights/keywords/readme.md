@@ -9,6 +9,10 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-71](bt-18-71.md) | Glühwein | armer (Menschen) | [LuFV](http://de.wikipedia.org/wiki/Leistungs-_und_Finanzierungsvereinbarung)
+[18-70](bt-18-70.md) | [OER](http://en.wikipedia.org/wiki/Open_educational_resources) | Dicarbonyfluorid | Tierwohl-Initiative
+[18-69](bt-18-69.md) | [GTK](http://de.wikipedia.org/wiki/GTK_Boxer) | Budgethilfe | Heul (doch!)
+[18-68](bt-18-68.md) | Gesundheitsfürsorge | Verbrauchergruppen | Haushaltseinbringung
 [18-67](bt-18-67.md) | Netzentgelte | Opferrente | Familienpflegezeit
 [18-66](bt-18-66.md) | Suizid | Sterbehilfe | Selbsttötung
 [18-65](bt-18-65.md) | (Tax) Rulings |  [GnuPG](http://en.wikipedia.org/wiki/GNU_Privacy_Guard) | Steuermodelle
