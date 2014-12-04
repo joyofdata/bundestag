@@ -9,6 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-72](bt-18-72.md) | Soli(daritätszuschlag) | Betreibervertrages | Geier
 [18-71](bt-18-71.md) | Glühwein | armer (Menschen) | [LuFV](http://de.wikipedia.org/wiki/Leistungs-_und_Finanzierungsvereinbarung)
 [18-70](bt-18-70.md) | [OER](http://en.wikipedia.org/wiki/Open_educational_resources) | Dicarbonyfluorid | Tierwohl-Initiative
 [18-69](bt-18-69.md) | [GTK](http://de.wikipedia.org/wiki/GTK_Boxer) | Budgethilfe | Heul (doch!)
