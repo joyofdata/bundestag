@@ -9,6 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-74](bt-18-74.md) | Meisterbrief | Gewerke | Meisterpflicht
 [18-73](bt-18-73.md) | Leistungsschutzrecht | Zollabwicklung | Erhebungskostenpauschale
 [18-72](bt-18-72.md) | Soli(daritätszuschlag) | Betreibervertrages | Geier
 [18-71](bt-18-71.md) | Glühwein | armer (Menschen) | [LuFV](http://de.wikipedia.org/wiki/Leistungs-_und_Finanzierungsvereinbarung)
