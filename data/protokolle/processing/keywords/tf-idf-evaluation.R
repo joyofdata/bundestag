@@ -60,7 +60,7 @@ get_freq_table <- function(F,lower=FALSE) {
 }
 
 generate_markdown_for_protocol <- function(TFIDF, words, session, bt=18, top=20,rad=5,num_context=6) {
-  str <- sprintf("#<a href='http://dip21.bundestag.de/dip21/btp/%d/%d%03d.pdf' target='x'>Bundestag %d-%d</a> \n",bt,bt,session,bt,session)
+  str <- sprintf("([back to main list](readme.md))\n#<a href='http://dip21.bundestag.de/dip21/btp/%d/%d%03d.pdf' target='x'>Bundestag %d-%d</a> \n",bt,bt,session,bt,session)
   top_link_id <- sprintf("bundestag-%d-%d",bt,session)
   str <- paste(str,"######(Keywords ranked by tf-idf-statistic) \n",sep="")
   
