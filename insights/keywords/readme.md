@@ -9,7 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
-[18-75](bt-18-75.md) | Wehrtechnischen (Dienststelle) | [WTD](http://de.wikipedia.org/wiki/Wehrtechnische_Dienststelle) | Meisterpflicht
+[18-75](bt-18-75.md) | Wehrtechnischen (Dienststelle) | [WTD](http://de.wikipedia.org/wiki/Wehrtechnische_Dienststelle) | Treffverhalten
 [18-74](bt-18-74.md) | Meisterbrief | Gewerke | Meisterpflicht
 [18-73](bt-18-73.md) | Leistungsschutzrecht | Zollabwicklung | Erhebungskostenpauschale
 [18-72](bt-18-72.md) | Soli(daritätszuschlag) | Betreibervertrages | Geier
