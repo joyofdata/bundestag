@@ -9,6 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-77](bt-18-77.md) | Lima | [GRW](http://de.wikipedia.org/wiki/Gemeinschaftsaufgabe_Verbesserung_der_regionalen_Wirtschaftsstruktur) | Anpassungsfonds
 [18-76](bt-18-76.md) | Postnachfolgeunternehmen | Befruchtung | Bundespost
 [18-75](bt-18-75.md) | Wehrtechnischen (Dienststelle) | [WTD](http://de.wikipedia.org/wiki/Wehrtechnische_Dienststelle) | Treffverhalten
 [18-74](bt-18-74.md) | Meisterbrief | Gewerke | Meisterpflicht
