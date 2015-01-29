@@ -9,6 +9,8 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+--- | --- | --- | ---
+[18-81](bt-18-80.md) | [KFA](http://de.wikipedia.org/wiki/K%C3%B6nig-Fahd-Akademie) | Genthin | [EZB](https://www.ecb.europa.eu/ecb/html/index.en.html)
 [18-80](bt-18-80.md) | Bildungsbericht | Kölsch | Bildungsberichts
 [18-79](bt-18-79.md) | Bauhaus | Risikoausgleichsrücklage | Kissinger
 [18-78](bt-18-78.md) | Schengener (Informationssystem) | Personalausweis | Ersatz-Personalausweis
