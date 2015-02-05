@@ -9,6 +9,7 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-84](bt-18-84.md) | [A-Status](http://nhri.ohchr.org/EN/AboutUs/ICCAccreditation/Pages/default.aspx) | Übergangsgeld | IFV (Investitionsförderungs- und Schutzvertrag)
 [18-83](bt-18-83.md) | Aufarbeitungskommission | ungeschwärzt | Bundeswehr-Attraktivitätssteigerungsgesetz
 [18-82](bt-18-82.md) | Mikroplastik | Abbruchkosten | (Raif) Badawi
 [18-81](bt-18-81.md) | [KFA](http://de.wikipedia.org/wiki/K%C3%B6nig-Fahd-Akademie) | [Genthin](http://de.wikipedia.org/wiki/Genthin) | [EZB](https://www.ecb.europa.eu/ecb/html/index.en.html)
