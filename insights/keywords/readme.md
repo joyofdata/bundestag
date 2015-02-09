@@ -9,6 +9,8 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-86](bt-18-86.md) | Sportbericht | Sport | Provenienzforschung
+[18-85](bt-18-85.md) | Baukultur | Punktesystem | Dirndl
 [18-84](bt-18-84.md) | [A-Status](http://nhri.ohchr.org/EN/AboutUs/ICCAccreditation/Pages/default.aspx) | Übergangsgeld | IFV (Investitionsförderungs- und Schutzvertrag)
 [18-83](bt-18-83.md) | Aufarbeitungskommission | ungeschwärzt | Bundeswehr-Attraktivitätssteigerungsgesetz
 [18-82](bt-18-82.md) | Mikroplastik | Abbruchkosten | (Raif) Badawi
