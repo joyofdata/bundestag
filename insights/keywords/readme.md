@@ -9,6 +9,9 @@ Choose a session to see the Top-20 keywords and a selection of their context.
 
 session | term #1 | term #2 | term #3
 --- | --- | --- | ---
+[18-89](bt-18-86.md) | griechichen | griechische | Hellenische
+[18-88](bt-18-86.md) | [PKK](http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party) | Sozialcharta | Vereinsverbot
+[18-87](bt-18-86.md) | Anbauverbot | [BISp](http://www.bisp.de/DE/Home/home_node.html) | Ministry
 [18-86](bt-18-86.md) | Sportbericht | Sport | Provenienzforschung
 [18-85](bt-18-85.md) | Baukultur | Punktesystem | Dirndl
 [18-84](bt-18-84.md) | [A-Status](http://nhri.ohchr.org/EN/AboutUs/ICCAccreditation/Pages/default.aspx) | Übergangsgeld | IFV (Investitionsförderungs- und Schutzvertrag)
